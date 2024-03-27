@@ -1,12 +1,6 @@
 import { useSelector } from 'react-redux';
 
-import {
-  AgentCard,
-  GloveCard,
-  KnifeCard,
-  MusicKitCard,
-  SkinCard,
-} from '../components/index.js';
+import { AgentCard, GloveCard, KnifeCard, MusicKitCard, SkinCard } from '../components/index.js';
 
 import Weapon from '../utils/Weapon.js';
 
@@ -118,15 +112,17 @@ export default function SkinPage() {
   const skin = useSelector((state) => state.skin);
 
   return (
-    <div className="mx-20 my-16">
-      {WeaponComponent(skin, '권총', 'pistol')}
-      {WeaponComponent(skin, '짧은 총', 'smg')}
-      {WeaponComponent(skin, '긴 총', 'rifle')}
-      {WeaponComponent(skin, '기타', 'other')}
-      {GloveComponent(skin)}
-      {KnifeComponent(skin)}
-      {AgentComponent(skin)}
-      {MusicKitComponent(skin)}
+    <div className="flex justify-center">
+      <div className="mx-20 my-16 max-w-screen-lg">
+        {WeaponComponent(skin, '권총', 'pistol')}
+        {WeaponComponent(skin, '짧은 총', 'smg')}
+        {WeaponComponent(skin, '긴 총', 'rifle')}
+        {WeaponComponent(skin, '기타', 'other')}
+        {GloveComponent(skin)}
+        {KnifeComponent(skin)}
+        {AgentComponent(skin)}
+        {MusicKitComponent(skin)}
+      </div>
     </div>
   );
 }

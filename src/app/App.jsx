@@ -1,4 +1,4 @@
-import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import { CookiesProvider } from 'react-cookie';
 
 import { Provider } from 'react-redux';
@@ -16,14 +16,9 @@ export default function App() {
           <Header />
 
           <Routes>
-            <Route path="/" element={<Navigate to="/skin" />} />
+            <Route path="/" element={<UserGuard element={<SkinPage />} />} />
 
             <Route path="/login" element={<LoginPage />} />
-
-            <Route
-              path="/skin"
-              element={<UserGuard element={<SkinPage />} />}
-            />
 
             <Route path="*" element={<NotFound />} />
           </Routes>

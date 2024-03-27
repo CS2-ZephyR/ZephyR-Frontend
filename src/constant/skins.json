@@ -1,0 +1,7012 @@
+{
+  "1": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Urban DDPAT",
+      "paint": "17"
+    },
+    {
+      "name": "Blaze",
+      "paint": "37"
+    },
+    {
+      "name": "Night",
+      "paint": "40"
+    },
+    {
+      "name": "Hypnotic",
+      "paint": "61"
+    },
+    {
+      "name": "Mudder",
+      "paint": "90"
+    },
+    {
+      "name": "Golden Koi",
+      "paint": "185"
+    },
+    {
+      "name": "Cobalt Disruption",
+      "paint": "231"
+    },
+    {
+      "name": "Crimson Web",
+      "paint": "232"
+    },
+    {
+      "name": "Urban Rubble",
+      "paint": "237"
+    },
+    {
+      "name": "Heirloom",
+      "paint": "273"
+    },
+    {
+      "name": "Meteorite",
+      "paint": "296"
+    },
+    {
+      "name": "Hand Cannon",
+      "paint": "328"
+    },
+    {
+      "name": "Pilot",
+      "paint": "347"
+    },
+    {
+      "name": "Conspiracy",
+      "paint": "351"
+    },
+    {
+      "name": "Naga",
+      "paint": "397"
+    },
+    {
+      "name": "Bronze Deco",
+      "paint": "425"
+    },
+    {
+      "name": "Midnight Storm",
+      "paint": "468"
+    },
+    {
+      "name": "Sunset Storm 壱",
+      "paint": "469"
+    },
+    {
+      "name": "Sunset Storm 弐",
+      "paint": "470"
+    },
+    {
+      "name": "Corinthian",
+      "paint": "509"
+    },
+    {
+      "name": "Kumicho Dragon",
+      "paint": "527"
+    },
+    {
+      "name": "Directive",
+      "paint": "603"
+    },
+    {
+      "name": "Oxide Blaze",
+      "paint": "645"
+    },
+    {
+      "name": "Code Red",
+      "paint": "711"
+    },
+    {
+      "name": "Emerald Jörmungandr",
+      "paint": "757"
+    },
+    {
+      "name": "Fennec Fox",
+      "paint": "764"
+    },
+    {
+      "name": "Mecha Industries",
+      "paint": "805"
+    },
+    {
+      "name": "Light Rail",
+      "paint": "841"
+    },
+    {
+      "name": "Blue Ply",
+      "paint": "945"
+    },
+    {
+      "name": "Printstream",
+      "paint": "962"
+    },
+    {
+      "name": "The Bronze",
+      "paint": "992"
+    },
+    {
+      "name": "Night Heist",
+      "paint": "1006"
+    },
+    {
+      "name": "Trigger Discipline",
+      "paint": "1050"
+    },
+    {
+      "name": "Sputnik",
+      "paint": "1056"
+    },
+    {
+      "name": "Ocean Drive",
+      "paint": "1090"
+    }
+  ],
+  "2": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Anodized Navy",
+      "paint": "28"
+    },
+    {
+      "name": "Stained",
+      "paint": "43"
+    },
+    {
+      "name": "Contractor",
+      "paint": "46"
+    },
+    {
+      "name": "Colony",
+      "paint": "47"
+    },
+    {
+      "name": "Demolition",
+      "paint": "153"
+    },
+    {
+      "name": "Black Limba",
+      "paint": "190"
+    },
+    {
+      "name": "Hemoglobin",
+      "paint": "220"
+    },
+    {
+      "name": "Cobalt Quartz",
+      "paint": "249"
+    },
+    {
+      "name": "Marina",
+      "paint": "261"
+    },
+    {
+      "name": "Panther",
+      "paint": "276"
+    },
+    {
+      "name": "Retribution",
+      "paint": "307"
+    },
+    {
+      "name": "Briar",
+      "paint": "330"
+    },
+    {
+      "name": "Urban Shock",
+      "paint": "396"
+    },
+    {
+      "name": "Duelist",
+      "paint": "447"
+    },
+    {
+      "name": "Moon in Libra",
+      "paint": "450"
+    },
+    {
+      "name": "Emerald",
+      "paint": "453"
+    },
+    {
+      "name": "Dualing Dragons",
+      "paint": "491"
+    },
+    {
+      "name": "Cartel",
+      "paint": "528"
+    },
+    {
+      "name": "Ventilators",
+      "paint": "544"
+    },
+    {
+      "name": "Royal Consorts",
+      "paint": "625"
+    },
+    {
+      "name": "Cobra Strike",
+      "paint": "658"
+    },
+    {
+      "name": "Shred",
+      "paint": "710"
+    },
+    {
+      "name": "Twin Turbo",
+      "paint": "747"
+    },
+    {
+      "name": "Drift Wood",
+      "paint": "824"
+    },
+    {
+      "name": "Pyre",
+      "paint": "860"
+    },
+    {
+      "name": "Balance",
+      "paint": "895"
+    },
+    {
+      "name": "Elite 1.6",
+      "paint": "903"
+    },
+    {
+      "name": "Dezastre",
+      "paint": "978"
+    },
+    {
+      "name": "Switch Board",
+      "paint": "998"
+    },
+    {
+      "name": "Heist",
+      "paint": "1005"
+    },
+    {
+      "name": "Oil Change",
+      "paint": "1086"
+    },
+    {
+      "name": "Tread",
+      "paint": "1091"
+    },
+    {
+      "name": "Melondrama",
+      "paint": "1126"
+    },
+    {
+      "name": "Flora Carnivora",
+      "paint": "1156"
+    },
+    {
+      "name": "Hideout",
+      "paint": "1169"
+    }
+  ],
+  "3": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Candy Apple",
+      "paint": "3"
+    },
+    {
+      "name": "Case Hardened",
+      "paint": "44"
+    },
+    {
+      "name": "Contractor",
+      "paint": "46"
+    },
+    {
+      "name": "Forest Night",
+      "paint": "78"
+    },
+    {
+      "name": "Orange Peel",
+      "paint": "141"
+    },
+    {
+      "name": "Jungle",
+      "paint": "151"
+    },
+    {
+      "name": "Anodized Gunmetal",
+      "paint": "210"
+    },
+    {
+      "name": "Nightshade",
+      "paint": "223"
+    },
+    {
+      "name": "Silver Quartz",
+      "paint": "252"
+    },
+    {
+      "name": "Nitro",
+      "paint": "254"
+    },
+    {
+      "name": "Kami",
+      "paint": "265"
+    },
+    {
+      "name": "Copper Galaxy",
+      "paint": "274"
+    },
+    {
+      "name": "Fowl Play",
+      "paint": "352"
+    },
+    {
+      "name": "Hot Shot",
+      "paint": "377"
+    },
+    {
+      "name": "Urban Hazard",
+      "paint": "387"
+    },
+    {
+      "name": "Monkey Business",
+      "paint": "427"
+    },
+    {
+      "name": "Neon Kimono",
+      "paint": "464"
+    },
+    {
+      "name": "Retrobution",
+      "paint": "510"
+    },
+    {
+      "name": "Triumvirate",
+      "paint": "530"
+    },
+    {
+      "name": "Violent Daimyo",
+      "paint": "585"
+    },
+    {
+      "name": "Scumbria",
+      "paint": "605"
+    },
+    {
+      "name": "Capillary",
+      "paint": "646"
+    },
+    {
+      "name": "Hyper Beast",
+      "paint": "660"
+    },
+    {
+      "name": "Flame Test",
+      "paint": "693"
+    },
+    {
+      "name": "Crimson Blossom",
+      "paint": "729"
+    },
+    {
+      "name": "Coolant",
+      "paint": "784"
+    },
+    {
+      "name": "Angry Mob",
+      "paint": "837"
+    },
+    {
+      "name": "Buddy",
+      "paint": "906"
+    },
+    {
+      "name": "Withered Vine",
+      "paint": "932"
+    },
+    {
+      "name": "Fairy Tale",
+      "paint": "979"
+    },
+    {
+      "name": "Berries And Cherries",
+      "paint": "1002"
+    },
+    {
+      "name": "Fall Hazard",
+      "paint": "1082"
+    },
+    {
+      "name": "Boost Protocol",
+      "paint": "1093"
+    },
+    {
+      "name": "Scrawl",
+      "paint": "1128"
+    },
+    {
+      "name": "Hybrid",
+      "paint": "1168"
+    }
+  ],
+  "4": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Groundwater",
+      "paint": "2"
+    },
+    {
+      "name": "Candy Apple",
+      "paint": "3"
+    },
+    {
+      "name": "Fade",
+      "paint": "38"
+    },
+    {
+      "name": "Night",
+      "paint": "40"
+    },
+    {
+      "name": "Dragon Tattoo",
+      "paint": "48"
+    },
+    {
+      "name": "Pink DDPAT",
+      "paint": "84"
+    },
+    {
+      "name": "Brass",
+      "paint": "159"
+    },
+    {
+      "name": "Sand Dune",
+      "paint": "208"
+    },
+    {
+      "name": "Steel Disruption",
+      "paint": "230"
+    },
+    {
+      "name": "Blue Fissure",
+      "paint": "278"
+    },
+    {
+      "name": "Death Rattle",
+      "paint": "293"
+    },
+    {
+      "name": "Water Elemental",
+      "paint": "353"
+    },
+    {
+      "name": "Reactor",
+      "paint": "367"
+    },
+    {
+      "name": "Grinder",
+      "paint": "381"
+    },
+    {
+      "name": "Catacombs",
+      "paint": "399"
+    },
+    {
+      "name": "Twilight Galaxy",
+      "paint": "437"
+    },
+    {
+      "name": "Bunsen Burner",
+      "paint": "479"
+    },
+    {
+      "name": "Wraiths",
+      "paint": "495"
+    },
+    {
+      "name": "Royal Legion",
+      "paint": "532"
+    },
+    {
+      "name": "Wasteland Rebel",
+      "paint": "586"
+    },
+    {
+      "name": "Weasel",
+      "paint": "607"
+    },
+    {
+      "name": "Ironwork",
+      "paint": "623"
+    },
+    {
+      "name": "Off World",
+      "paint": "680"
+    },
+    {
+      "name": "Moonrise",
+      "paint": "694"
+    },
+    {
+      "name": "Warhawk",
+      "paint": "713"
+    },
+    {
+      "name": "Synth Leaf",
+      "paint": "732"
+    },
+    {
+      "name": "Nuclear Garden",
+      "paint": "789"
+    },
+    {
+      "name": "High Beam",
+      "paint": "799"
+    },
+    {
+      "name": "Oxide Blaze",
+      "paint": "808"
+    },
+    {
+      "name": "Sacrifice",
+      "paint": "918"
+    },
+    {
+      "name": "Bullet Queen",
+      "paint": "957"
+    },
+    {
+      "name": "Vogue",
+      "paint": "963"
+    },
+    {
+      "name": "Neo-Noir",
+      "paint": "988"
+    },
+    {
+      "name": "Franklin",
+      "paint": "1016"
+    },
+    {
+      "name": "Clear Polymer",
+      "paint": "1039"
+    },
+    {
+      "name": "Red Tire",
+      "paint": "1079"
+    },
+    {
+      "name": "Snack Attack",
+      "paint": "1100"
+    },
+    {
+      "name": "Gamma Doppler (Emerald)",
+      "paint": "1119"
+    },
+    {
+      "name": "Gamma Doppler (Phase 1)",
+      "paint": "1120"
+    },
+    {
+      "name": "Gamma Doppler (Phase 2)",
+      "paint": "1121"
+    },
+    {
+      "name": "Gamma Doppler (Phase 3)",
+      "paint": "1122"
+    },
+    {
+      "name": "Gamma Doppler (Phase 4)",
+      "paint": "1123"
+    },
+    {
+      "name": "Winterized",
+      "paint": "1158"
+    },
+    {
+      "name": "Block-18",
+      "paint": "1167"
+    },
+    {
+      "name": "Umbral Rabbit",
+      "paint": "1227"
+    },
+    {
+      "name": "Ramese's Reach",
+      "paint": "1240"
+    }
+  ],
+  "7": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Red Laminate",
+      "paint": "14"
+    },
+    {
+      "name": "Case Hardened",
+      "paint": "44"
+    },
+    {
+      "name": "Safari Mesh",
+      "paint": "72"
+    },
+    {
+      "name": "Jungle Spray",
+      "paint": "122"
+    },
+    {
+      "name": "Predator",
+      "paint": "170"
+    },
+    {
+      "name": "Black Laminate",
+      "paint": "172"
+    },
+    {
+      "name": "Fire Serpent",
+      "paint": "180"
+    },
+    {
+      "name": "Blue Laminate",
+      "paint": "226"
+    },
+    {
+      "name": "Redline",
+      "paint": "282"
+    },
+    {
+      "name": "Emerald Pinstripe",
+      "paint": "300"
+    },
+    {
+      "name": "Vulcan",
+      "paint": "302"
+    },
+    {
+      "name": "Jaguar",
+      "paint": "316"
+    },
+    {
+      "name": "Jet Set",
+      "paint": "340"
+    },
+    {
+      "name": "First Class",
+      "paint": "341"
+    },
+    {
+      "name": "Wasteland Rebel",
+      "paint": "380"
+    },
+    {
+      "name": "Cartel",
+      "paint": "394"
+    },
+    {
+      "name": "Elite Build",
+      "paint": "422"
+    },
+    {
+      "name": "Hydroponic",
+      "paint": "456"
+    },
+    {
+      "name": "Aquamarine Revenge",
+      "paint": "474"
+    },
+    {
+      "name": "Frontside Misty",
+      "paint": "490"
+    },
+    {
+      "name": "Point Disarray",
+      "paint": "506"
+    },
+    {
+      "name": "Fuel Injector",
+      "paint": "524"
+    },
+    {
+      "name": "Neon Revolution",
+      "paint": "600"
+    },
+    {
+      "name": "Bloodsport",
+      "paint": "639"
+    },
+    {
+      "name": "Orbit Mk01",
+      "paint": "656"
+    },
+    {
+      "name": "The Empress",
+      "paint": "675"
+    },
+    {
+      "name": "Neon Rider",
+      "paint": "707"
+    },
+    {
+      "name": "Wild Lotus",
+      "paint": "724"
+    },
+    {
+      "name": "Baroque Purple",
+      "paint": "745"
+    },
+    {
+      "name": "Safety Net",
+      "paint": "795"
+    },
+    {
+      "name": "Asiimov",
+      "paint": "801"
+    },
+    {
+      "name": "Uncharted",
+      "paint": "836"
+    },
+    {
+      "name": "Rat Rod",
+      "paint": "885"
+    },
+    {
+      "name": "Gold Arabesque",
+      "paint": "921"
+    },
+    {
+      "name": "Phantom Disruptor",
+      "paint": "941"
+    },
+    {
+      "name": "Legion of Anubis",
+      "paint": "959"
+    },
+    {
+      "name": "X-Ray",
+      "paint": "1004"
+    },
+    {
+      "name": "Panthera onca",
+      "paint": "1018"
+    },
+    {
+      "name": "Slate",
+      "paint": "1035"
+    },
+    {
+      "name": "Green Laminate",
+      "paint": "1070"
+    },
+    {
+      "name": "Leet Museo",
+      "paint": "1087"
+    },
+    {
+      "name": "Nightwish",
+      "paint": "1141"
+    },
+    {
+      "name": "Ice Coaled",
+      "paint": "1143"
+    },
+    {
+      "name": "Inheritance",
+      "paint": "1171"
+    },
+    {
+      "name": "Head Shot",
+      "paint": "1221"
+    },
+    {
+      "name": "Steel Delta",
+      "paint": "1238"
+    }
+  ],
+  "8": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Bengal Tiger",
+      "paint": "9"
+    },
+    {
+      "name": "Copperhead",
+      "paint": "10"
+    },
+    {
+      "name": "Hot Rod",
+      "paint": "33"
+    },
+    {
+      "name": "Contractor",
+      "paint": "46"
+    },
+    {
+      "name": "Colony",
+      "paint": "47"
+    },
+    {
+      "name": "Wings",
+      "paint": "73"
+    },
+    {
+      "name": "Storm",
+      "paint": "100"
+    },
+    {
+      "name": "Condemned",
+      "paint": "110"
+    },
+    {
+      "name": "Anodized Navy",
+      "paint": "197"
+    },
+    {
+      "name": "Amber Fade",
+      "paint": "246"
+    },
+    {
+      "name": "Chameleon",
+      "paint": "280"
+    },
+    {
+      "name": "Torque",
+      "paint": "305"
+    },
+    {
+      "name": "Radiation Hazard",
+      "paint": "375"
+    },
+    {
+      "name": "Daedalus",
+      "paint": "444"
+    },
+    {
+      "name": "Akihabara Accept",
+      "paint": "455"
+    },
+    {
+      "name": "Ricochet",
+      "paint": "507"
+    },
+    {
+      "name": "Fleet Flock",
+      "paint": "541"
+    },
+    {
+      "name": "Aristocrat",
+      "paint": "583"
+    },
+    {
+      "name": "Syd Mead",
+      "paint": "601"
+    },
+    {
+      "name": "Triqua",
+      "paint": "674"
+    },
+    {
+      "name": "Stymphalian",
+      "paint": "690"
+    },
+    {
+      "name": "Amber Slipstream",
+      "paint": "708"
+    },
+    {
+      "name": "Midnight Lily",
+      "paint": "727"
+    },
+    {
+      "name": "Navy Murano",
+      "paint": "740"
+    },
+    {
+      "name": "Flame Jörmungandr",
+      "paint": "758"
+    },
+    {
+      "name": "Random Access",
+      "paint": "779"
+    },
+    {
+      "name": "Sweeper",
+      "paint": "794"
+    },
+    {
+      "name": "Sand Storm",
+      "paint": "823"
+    },
+    {
+      "name": "Momentum",
+      "paint": "845"
+    },
+    {
+      "name": "Arctic Wolf",
+      "paint": "886"
+    },
+    {
+      "name": "Death by Puppy",
+      "paint": "913"
+    },
+    {
+      "name": "Spalted Wood",
+      "paint": "927"
+    },
+    {
+      "name": "Tom Cat",
+      "paint": "942"
+    },
+    {
+      "name": "Surveillance",
+      "paint": "995"
+    },
+    {
+      "name": "Carved Jade",
+      "paint": "1033"
+    },
+    {
+      "name": "Plague",
+      "paint": "1088"
+    },
+    {
+      "name": "Snake Pit",
+      "paint": "1249"
+    }
+  ],
+  "9": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Snake Camo",
+      "paint": "30"
+    },
+    {
+      "name": "Lightning Strike",
+      "paint": "51"
+    },
+    {
+      "name": "Safari Mesh",
+      "paint": "72"
+    },
+    {
+      "name": "Pink DDPAT",
+      "paint": "84"
+    },
+    {
+      "name": "BOOM",
+      "paint": "174"
+    },
+    {
+      "name": "Corticera",
+      "paint": "181"
+    },
+    {
+      "name": "Graphite",
+      "paint": "212"
+    },
+    {
+      "name": "Electric Hive",
+      "paint": "227"
+    },
+    {
+      "name": "Pit Viper",
+      "paint": "251"
+    },
+    {
+      "name": "Redline",
+      "paint": "259"
+    },
+    {
+      "name": "Asiimov",
+      "paint": "279"
+    },
+    {
+      "name": "Dragon Lore",
+      "paint": "344"
+    },
+    {
+      "name": "Man-o'-war",
+      "paint": "395"
+    },
+    {
+      "name": "Worm God",
+      "paint": "424"
+    },
+    {
+      "name": "Medusa",
+      "paint": "446"
+    },
+    {
+      "name": "Sun in Leo",
+      "paint": "451"
+    },
+    {
+      "name": "Hyper Beast",
+      "paint": "475"
+    },
+    {
+      "name": "Elite Build",
+      "paint": "525"
+    },
+    {
+      "name": "Phobos",
+      "paint": "584"
+    },
+    {
+      "name": "Fever Dream",
+      "paint": "640"
+    },
+    {
+      "name": "Oni Taiji",
+      "paint": "662"
+    },
+    {
+      "name": "Mortis",
+      "paint": "691"
+    },
+    {
+      "name": "PAW",
+      "paint": "718"
+    },
+    {
+      "name": "The Prince",
+      "paint": "736"
+    },
+    {
+      "name": "Gungnir",
+      "paint": "756"
+    },
+    {
+      "name": "Acheron",
+      "paint": "788"
+    },
+    {
+      "name": "Neo-Noir",
+      "paint": "803"
+    },
+    {
+      "name": "Desert Hydra",
+      "paint": "819"
+    },
+    {
+      "name": "Atheris",
+      "paint": "838"
+    },
+    {
+      "name": "Containment Breach",
+      "paint": "887"
+    },
+    {
+      "name": "Wildfire",
+      "paint": "917"
+    },
+    {
+      "name": "Capillary",
+      "paint": "943"
+    },
+    {
+      "name": "Exoskeleton",
+      "paint": "975"
+    },
+    {
+      "name": "Fade",
+      "paint": "1026"
+    },
+    {
+      "name": "Silk Tiger",
+      "paint": "1029"
+    },
+    {
+      "name": "POP AWP",
+      "paint": "1058"
+    },
+    {
+      "name": "Chromatic Aberration",
+      "paint": "1144"
+    },
+    {
+      "name": "Chrome Cannon",
+      "paint": "1170"
+    },
+    {
+      "name": "Duality",
+      "paint": "1222"
+    },
+    {
+      "name": "Black Nile",
+      "paint": "1239"
+    }
+  ],
+  "10": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Contrast Spray",
+      "paint": "22"
+    },
+    {
+      "name": "Colony",
+      "paint": "47"
+    },
+    {
+      "name": "Dark Water",
+      "paint": "60"
+    },
+    {
+      "name": "Cyanospatter",
+      "paint": "92"
+    },
+    {
+      "name": "Afterimage",
+      "paint": "154"
+    },
+    {
+      "name": "Doomkitty",
+      "paint": "178"
+    },
+    {
+      "name": "Spitfire",
+      "paint": "194"
+    },
+    {
+      "name": "Hexane",
+      "paint": "218"
+    },
+    {
+      "name": "CaliCamo",
+      "paint": "240"
+    },
+    {
+      "name": "Teardown",
+      "paint": "244"
+    },
+    {
+      "name": "Pulse",
+      "paint": "260"
+    },
+    {
+      "name": "Sergeant",
+      "paint": "288"
+    },
+    {
+      "name": "Styx",
+      "paint": "371"
+    },
+    {
+      "name": "Djinn",
+      "paint": "429"
+    },
+    {
+      "name": "Neural Net",
+      "paint": "477"
+    },
+    {
+      "name": "Survivor Z",
+      "paint": "492"
+    },
+    {
+      "name": "Valence",
+      "paint": "529"
+    },
+    {
+      "name": "Roll Cage",
+      "paint": "604"
+    },
+    {
+      "name": "Mecha Industries",
+      "paint": "626"
+    },
+    {
+      "name": "Macabre",
+      "paint": "659"
+    },
+    {
+      "name": "Eye of Athena",
+      "paint": "723"
+    },
+    {
+      "name": "Crypsis",
+      "paint": "835"
+    },
+    {
+      "name": "Night Borre",
+      "paint": "863"
+    },
+    {
+      "name": "Sundown",
+      "paint": "869"
+    },
+    {
+      "name": "Decommissioned",
+      "paint": "904"
+    },
+    {
+      "name": "Commemoration",
+      "paint": "919"
+    },
+    {
+      "name": "Prime Conspiracy",
+      "paint": "999"
+    },
+    {
+      "name": "Meltdown",
+      "paint": "1053"
+    },
+    {
+      "name": "Faulty Wiring",
+      "paint": "1066"
+    },
+    {
+      "name": "ZX Spectron",
+      "paint": "1092"
+    },
+    {
+      "name": "Rapid Eye Movement",
+      "paint": "1127"
+    },
+    {
+      "name": "Meow 36",
+      "paint": "1146"
+    },
+    {
+      "name": "Waters of Nephthys",
+      "paint": "1241"
+    }
+  ],
+  "11": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Arctic Camo",
+      "paint": "6"
+    },
+    {
+      "name": "Desert Storm",
+      "paint": "8"
+    },
+    {
+      "name": "Contractor",
+      "paint": "46"
+    },
+    {
+      "name": "Safari Mesh",
+      "paint": "72"
+    },
+    {
+      "name": "Polar Camo",
+      "paint": "74"
+    },
+    {
+      "name": "Jungle Dashed",
+      "paint": "147"
+    },
+    {
+      "name": "Demeter",
+      "paint": "195"
+    },
+    {
+      "name": "Azure Zebra",
+      "paint": "229"
+    },
+    {
+      "name": "VariCamo",
+      "paint": "235"
+    },
+    {
+      "name": "Green Apple",
+      "paint": "294"
+    },
+    {
+      "name": "Murky",
+      "paint": "382"
+    },
+    {
+      "name": "Chronos",
+      "paint": "438"
+    },
+    {
+      "name": "Orange Kimono",
+      "paint": "465"
+    },
+    {
+      "name": "Flux",
+      "paint": "493"
+    },
+    {
+      "name": "The Executioner",
+      "paint": "511"
+    },
+    {
+      "name": "Orange Crash",
+      "paint": "545"
+    },
+    {
+      "name": "Ventilator",
+      "paint": "606"
+    },
+    {
+      "name": "Stinger",
+      "paint": "628"
+    },
+    {
+      "name": "Hunter",
+      "paint": "677"
+    },
+    {
+      "name": "High Seas",
+      "paint": "712"
+    },
+    {
+      "name": "Violet Murano",
+      "paint": "739"
+    },
+    {
+      "name": "Scavenger",
+      "paint": "806"
+    },
+    {
+      "name": "Black Sand",
+      "paint": "891"
+    },
+    {
+      "name": "New Roots",
+      "paint": "930"
+    },
+    {
+      "name": "Digital Mesh",
+      "paint": "980"
+    },
+    {
+      "name": "Ancient Ritual",
+      "paint": "1034"
+    },
+    {
+      "name": "Keeping Tabs",
+      "paint": "1095"
+    },
+    {
+      "name": "Dream Glade",
+      "paint": "1129"
+    }
+  ],
+  "13": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Winter Forest",
+      "paint": "76"
+    },
+    {
+      "name": "Orange DDPAT",
+      "paint": "83"
+    },
+    {
+      "name": "Tornado",
+      "paint": "101"
+    },
+    {
+      "name": "Sage Spray",
+      "paint": "119"
+    },
+    {
+      "name": "Shattered",
+      "paint": "192"
+    },
+    {
+      "name": "Blue Titanium",
+      "paint": "216"
+    },
+    {
+      "name": "VariCamo",
+      "paint": "235"
+    },
+    {
+      "name": "Urban Rubble",
+      "paint": "237"
+    },
+    {
+      "name": "Hunting Blind",
+      "paint": "241"
+    },
+    {
+      "name": "Amber Fade",
+      "paint": "246"
+    },
+    {
+      "name": "Sandstorm",
+      "paint": "264"
+    },
+    {
+      "name": "Tuxedo",
+      "paint": "297"
+    },
+    {
+      "name": "Kami",
+      "paint": "308"
+    },
+    {
+      "name": "Cerberus",
+      "paint": "379"
+    },
+    {
+      "name": "Chatterbox",
+      "paint": "398"
+    },
+    {
+      "name": "Eco",
+      "paint": "428"
+    },
+    {
+      "name": "Aqua Terrace",
+      "paint": "460"
+    },
+    {
+      "name": "Rocket Pop",
+      "paint": "478"
+    },
+    {
+      "name": "Stone Cold",
+      "paint": "494"
+    },
+    {
+      "name": "Firefight",
+      "paint": "546"
+    },
+    {
+      "name": "Black Sand",
+      "paint": "629"
+    },
+    {
+      "name": "Crimson Tsunami",
+      "paint": "647"
+    },
+    {
+      "name": "Sugar Rush",
+      "paint": "661"
+    },
+    {
+      "name": "Cold Fusion",
+      "paint": "790"
+    },
+    {
+      "name": "Signal",
+      "paint": "807"
+    },
+    {
+      "name": "Akoben",
+      "paint": "842"
+    },
+    {
+      "name": "Connexion",
+      "paint": "972"
+    },
+    {
+      "name": "Vandal",
+      "paint": "981"
+    },
+    {
+      "name": "Phoenix Blacklight",
+      "paint": "1013"
+    },
+    {
+      "name": "Dusk Ruins",
+      "paint": "1032"
+    },
+    {
+      "name": "Chromatic Aberration",
+      "paint": "1038"
+    },
+    {
+      "name": "CAUTION!",
+      "paint": "1071"
+    },
+    {
+      "name": "Destroyer",
+      "paint": "1147"
+    }
+  ],
+  "14": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Contrast Spray",
+      "paint": "22"
+    },
+    {
+      "name": "Blizzard Marbleized",
+      "paint": "75"
+    },
+    {
+      "name": "Jungle",
+      "paint": "151"
+    },
+    {
+      "name": "Predator",
+      "paint": "170"
+    },
+    {
+      "name": "Jungle DDPAT",
+      "paint": "202"
+    },
+    {
+      "name": "Gator Mesh",
+      "paint": "243"
+    },
+    {
+      "name": "Magma",
+      "paint": "266"
+    },
+    {
+      "name": "System Lock",
+      "paint": "401"
+    },
+    {
+      "name": "Shipping Forecast",
+      "paint": "452"
+    },
+    {
+      "name": "Impact Drill",
+      "paint": "472"
+    },
+    {
+      "name": "Nebula Crusader",
+      "paint": "496"
+    },
+    {
+      "name": "Spectre",
+      "paint": "547"
+    },
+    {
+      "name": "Emerald Poison Dart",
+      "paint": "648"
+    },
+    {
+      "name": "Humidor",
+      "paint": "827"
+    },
+    {
+      "name": "Warbird",
+      "paint": "900"
+    },
+    {
+      "name": "Aztec",
+      "paint": "902"
+    },
+    {
+      "name": "Midnight Palm",
+      "paint": "933"
+    },
+    {
+      "name": "Deep Relief",
+      "paint": "983"
+    },
+    {
+      "name": "O.S.I.P.R.",
+      "paint": "1042"
+    },
+    {
+      "name": "Downtown",
+      "paint": "1148"
+    },
+    {
+      "name": "Submerged",
+      "paint": "1242"
+    }
+  ],
+  "16": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Desert Storm",
+      "paint": "8"
+    },
+    {
+      "name": "Jungle Tiger",
+      "paint": "16"
+    },
+    {
+      "name": "Urban DDPAT",
+      "paint": "17"
+    },
+    {
+      "name": "Tornado",
+      "paint": "101"
+    },
+    {
+      "name": "Bullet Rain",
+      "paint": "155"
+    },
+    {
+      "name": "Modern Hunter",
+      "paint": "164"
+    },
+    {
+      "name": "Radiation Hazard",
+      "paint": "167"
+    },
+    {
+      "name": "Faded Zebra",
+      "paint": "176"
+    },
+    {
+      "name": "Zirka",
+      "paint": "187"
+    },
+    {
+      "name": "X-Ray",
+      "paint": "215"
+    },
+    {
+      "name": "Asiimov",
+      "paint": "255"
+    },
+    {
+      "name": "Howl",
+      "paint": "309"
+    },
+    {
+      "name": "Desert-Strike",
+      "paint": "336"
+    },
+    {
+      "name": "Griffin",
+      "paint": "384"
+    },
+    {
+      "name": "龍王 (Dragon King)",
+      "paint": "400"
+    },
+    {
+      "name": "Poseidon",
+      "paint": "449"
+    },
+    {
+      "name": "Daybreak",
+      "paint": "471"
+    },
+    {
+      "name": "Evil Daimyo",
+      "paint": "480"
+    },
+    {
+      "name": "Royal Paladin",
+      "paint": "512"
+    },
+    {
+      "name": "The Battlestar",
+      "paint": "533"
+    },
+    {
+      "name": "Desolate Space",
+      "paint": "588"
+    },
+    {
+      "name": "Buzz Kill",
+      "paint": "632"
+    },
+    {
+      "name": "Hellfire",
+      "paint": "664"
+    },
+    {
+      "name": "Neo-Noir",
+      "paint": "695"
+    },
+    {
+      "name": "Dark Blossom",
+      "paint": "730"
+    },
+    {
+      "name": "Mainframe",
+      "paint": "780"
+    },
+    {
+      "name": "Converter",
+      "paint": "793"
+    },
+    {
+      "name": "Magnesium",
+      "paint": "811"
+    },
+    {
+      "name": "The Emperor",
+      "paint": "844"
+    },
+    {
+      "name": "Red DDPAT",
+      "paint": "926"
+    },
+    {
+      "name": "Tooth Fairy",
+      "paint": "971"
+    },
+    {
+      "name": "Cyber Security",
+      "paint": "985"
+    },
+    {
+      "name": "Global Offensive",
+      "paint": "993"
+    },
+    {
+      "name": "In Living Color",
+      "paint": "1041"
+    },
+    {
+      "name": "The Coalition",
+      "paint": "1063"
+    },
+    {
+      "name": "Spider Lily",
+      "paint": "1097"
+    },
+    {
+      "name": "Poly Mag",
+      "paint": "1149"
+    },
+    {
+      "name": "Etch Lord",
+      "paint": "1165"
+    },
+    {
+      "name": "Temukau",
+      "paint": "1228"
+    },
+    {
+      "name": "Eye of Horus",
+      "paint": "1255"
+    }
+  ],
+  "17": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Candy Apple",
+      "paint": "3"
+    },
+    {
+      "name": "Urban DDPAT",
+      "paint": "17"
+    },
+    {
+      "name": "Silver",
+      "paint": "32"
+    },
+    {
+      "name": "Fade",
+      "paint": "38"
+    },
+    {
+      "name": "Case Hardened",
+      "paint": "44"
+    },
+    {
+      "name": "Ultraviolet",
+      "paint": "98"
+    },
+    {
+      "name": "Tornado",
+      "paint": "101"
+    },
+    {
+      "name": "Palm",
+      "paint": "157"
+    },
+    {
+      "name": "Graven",
+      "paint": "188"
+    },
+    {
+      "name": "Amber Fade",
+      "paint": "246"
+    },
+    {
+      "name": "Heat",
+      "paint": "284"
+    },
+    {
+      "name": "Curse",
+      "paint": "310"
+    },
+    {
+      "name": "Indigo",
+      "paint": "333"
+    },
+    {
+      "name": "Tatter",
+      "paint": "337"
+    },
+    {
+      "name": "Commuter",
+      "paint": "343"
+    },
+    {
+      "name": "Nuclear Garden",
+      "paint": "372"
+    },
+    {
+      "name": "Malachite",
+      "paint": "402"
+    },
+    {
+      "name": "Neon Rider",
+      "paint": "433"
+    },
+    {
+      "name": "Rangeen",
+      "paint": "498"
+    },
+    {
+      "name": "Lapis Gator",
+      "paint": "534"
+    },
+    {
+      "name": "Carnivore",
+      "paint": "589"
+    },
+    {
+      "name": "Last Dive",
+      "paint": "651"
+    },
+    {
+      "name": "Aloha",
+      "paint": "665"
+    },
+    {
+      "name": "Oceanic",
+      "paint": "682"
+    },
+    {
+      "name": "Red Filigree",
+      "paint": "742"
+    },
+    {
+      "name": "Calf Skin",
+      "paint": "748"
+    },
+    {
+      "name": "Copper Borre",
+      "paint": "761"
+    },
+    {
+      "name": "Pipe Down",
+      "paint": "812"
+    },
+    {
+      "name": "Sienna Damask",
+      "paint": "826"
+    },
+    {
+      "name": "Whitefish",
+      "paint": "840"
+    },
+    {
+      "name": "Surfwood",
+      "paint": "871"
+    },
+    {
+      "name": "Stalker",
+      "paint": "898"
+    },
+    {
+      "name": "Classic Crate",
+      "paint": "908"
+    },
+    {
+      "name": "Disco Tech",
+      "paint": "947"
+    },
+    {
+      "name": "Allure",
+      "paint": "965"
+    },
+    {
+      "name": "Hot Snakes",
+      "paint": "1009"
+    },
+    {
+      "name": "Gold Brick",
+      "paint": "1025"
+    },
+    {
+      "name": "Button Masher",
+      "paint": "1045"
+    },
+    {
+      "name": "Propaganda",
+      "paint": "1067"
+    },
+    {
+      "name": "Strats",
+      "paint": "1075"
+    },
+    {
+      "name": "Toybox",
+      "paint": "1098"
+    },
+    {
+      "name": "Ensnared",
+      "paint": "1131"
+    },
+    {
+      "name": "Monkeyflage",
+      "paint": "1150"
+    },
+    {
+      "name": "Light Box",
+      "paint": "1164"
+    },
+    {
+      "name": "Sakkaku",
+      "paint": "1229"
+    },
+    {
+      "name": "Echoing Sands",
+      "paint": "1244"
+    }
+  ],
+  "19": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Virus",
+      "paint": "20"
+    },
+    {
+      "name": "Cold Blooded",
+      "paint": "67"
+    },
+    {
+      "name": "Storm",
+      "paint": "100"
+    },
+    {
+      "name": "Glacier Mesh",
+      "paint": "111"
+    },
+    {
+      "name": "Sand Spray",
+      "paint": "124"
+    },
+    {
+      "name": "Death by Kitty",
+      "paint": "156"
+    },
+    {
+      "name": "Fallout Warning",
+      "paint": "169"
+    },
+    {
+      "name": "Scorched",
+      "paint": "175"
+    },
+    {
+      "name": "Emerald Dragon",
+      "paint": "182"
+    },
+    {
+      "name": "Blind Spot",
+      "paint": "228"
+    },
+    {
+      "name": "Ash Wood",
+      "paint": "234"
+    },
+    {
+      "name": "Teardown",
+      "paint": "244"
+    },
+    {
+      "name": "Trigon",
+      "paint": "283"
+    },
+    {
+      "name": "Desert Warfare",
+      "paint": "311"
+    },
+    {
+      "name": "Module",
+      "paint": "335"
+    },
+    {
+      "name": "Leather",
+      "paint": "342"
+    },
+    {
+      "name": "Asiimov",
+      "paint": "359"
+    },
+    {
+      "name": "Elite Build",
+      "paint": "486"
+    },
+    {
+      "name": "Shapewood",
+      "paint": "516"
+    },
+    {
+      "name": "Chopper",
+      "paint": "593"
+    },
+    {
+      "name": "Grim",
+      "paint": "611"
+    },
+    {
+      "name": "Shallow Grave",
+      "paint": "636"
+    },
+    {
+      "name": "Death Grip",
+      "paint": "669"
+    },
+    {
+      "name": "Traction",
+      "paint": "717"
+    },
+    {
+      "name": "Sunset Lily",
+      "paint": "726"
+    },
+    {
+      "name": "Baroque Red",
+      "paint": "744"
+    },
+    {
+      "name": "Astral Jörmungandr",
+      "paint": "759"
+    },
+    {
+      "name": "Facility Negative",
+      "paint": "776"
+    },
+    {
+      "name": "Verdant Growth",
+      "paint": "828"
+    },
+    {
+      "name": "Off World",
+      "paint": "849"
+    },
+    {
+      "name": "Nostalgia",
+      "paint": "911"
+    },
+    {
+      "name": "Desert DDPAT",
+      "paint": "925"
+    },
+    {
+      "name": "Freight",
+      "paint": "969"
+    },
+    {
+      "name": "Cocoa Rampage",
+      "paint": "977"
+    },
+    {
+      "name": "Run and Hide",
+      "paint": "1000"
+    },
+    {
+      "name": "Tiger Pit",
+      "paint": "1015"
+    },
+    {
+      "name": "Ancient Earth",
+      "paint": "1020"
+    },
+    {
+      "name": "Schematic",
+      "paint": "1074"
+    },
+    {
+      "name": "Vent Rush",
+      "paint": "1154"
+    },
+    {
+      "name": "Neoqueen",
+      "paint": "1233"
+    },
+    {
+      "name": "ScaraB Rush",
+      "paint": "1250"
+    }
+  ],
+  "23": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Dirt Drop",
+      "paint": "753"
+    },
+    {
+      "name": "Co-Processor",
+      "paint": "781"
+    },
+    {
+      "name": "Nitro",
+      "paint": "798"
+    },
+    {
+      "name": "Lab Rats",
+      "paint": "800"
+    },
+    {
+      "name": "Phosphor",
+      "paint": "810"
+    },
+    {
+      "name": "Gauss",
+      "paint": "846"
+    },
+    {
+      "name": "Bamboo Garden",
+      "paint": "872"
+    },
+    {
+      "name": "Acid Wash",
+      "paint": "888"
+    },
+    {
+      "name": "Agent",
+      "paint": "915"
+    },
+    {
+      "name": "Oxide Oasis",
+      "paint": "923"
+    },
+    {
+      "name": "Desert Strike",
+      "paint": "949"
+    },
+    {
+      "name": "Kitbash",
+      "paint": "974"
+    },
+    {
+      "name": "Condition Zero",
+      "paint": "986"
+    },
+    {
+      "name": "Autumn Twilly",
+      "paint": "1061"
+    },
+    {
+      "name": "Necro Jr.",
+      "paint": "1137"
+    },
+    {
+      "name": "Liquidation",
+      "paint": "1231"
+    }
+  ],
+  "24": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Gunsmoke",
+      "paint": "15"
+    },
+    {
+      "name": "Urban DDPAT",
+      "paint": "17"
+    },
+    {
+      "name": "Blaze",
+      "paint": "37"
+    },
+    {
+      "name": "Carbon Fiber",
+      "paint": "70"
+    },
+    {
+      "name": "Mudder",
+      "paint": "90"
+    },
+    {
+      "name": "Caramel",
+      "paint": "93"
+    },
+    {
+      "name": "Fallout Warning",
+      "paint": "169"
+    },
+    {
+      "name": "Scorched",
+      "paint": "175"
+    },
+    {
+      "name": "Bone Pile",
+      "paint": "193"
+    },
+    {
+      "name": "Full Stop",
+      "paint": "250"
+    },
+    {
+      "name": "Corporal",
+      "paint": "281"
+    },
+    {
+      "name": "Indigo",
+      "paint": "333"
+    },
+    {
+      "name": "Labyrinth",
+      "paint": "362"
+    },
+    {
+      "name": "Delusion",
+      "paint": "392"
+    },
+    {
+      "name": "Grand Prix",
+      "paint": "436"
+    },
+    {
+      "name": "Minotaur's Labyrinth",
+      "paint": "441"
+    },
+    {
+      "name": "Riot",
+      "paint": "488"
+    },
+    {
+      "name": "Primal Saber",
+      "paint": "556"
+    },
+    {
+      "name": "Briefing",
+      "paint": "615"
+    },
+    {
+      "name": "Scaffold",
+      "paint": "652"
+    },
+    {
+      "name": "Metal Flowers",
+      "paint": "672"
+    },
+    {
+      "name": "Exposure",
+      "paint": "688"
+    },
+    {
+      "name": "Arctic Wolf",
+      "paint": "704"
+    },
+    {
+      "name": "Day Lily",
+      "paint": "725"
+    },
+    {
+      "name": "Facility Dark",
+      "paint": "778"
+    },
+    {
+      "name": "Momentum",
+      "paint": "802"
+    },
+    {
+      "name": "Moonrise",
+      "paint": "851"
+    },
+    {
+      "name": "Fade",
+      "paint": "879"
+    },
+    {
+      "name": "Plastique",
+      "paint": "916"
+    },
+    {
+      "name": "Gold Bismuth",
+      "paint": "990"
+    },
+    {
+      "name": "Crime Scene",
+      "paint": "1003"
+    },
+    {
+      "name": "Houndstooth",
+      "paint": "1008"
+    },
+    {
+      "name": "Oscillator",
+      "paint": "1049"
+    },
+    {
+      "name": "Mechanism",
+      "paint": "1085"
+    },
+    {
+      "name": "Roadblock",
+      "paint": "1157"
+    },
+    {
+      "name": "Motorized",
+      "paint": "1175"
+    },
+    {
+      "name": "Wild Child",
+      "paint": "1236"
+    }
+  ],
+  "25": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Blue Steel",
+      "paint": "42"
+    },
+    {
+      "name": "Grassland",
+      "paint": "95"
+    },
+    {
+      "name": "Blue Spruce",
+      "paint": "96"
+    },
+    {
+      "name": "Urban Perforated",
+      "paint": "135"
+    },
+    {
+      "name": "Blaze Orange",
+      "paint": "166"
+    },
+    {
+      "name": "Fallout Warning",
+      "paint": "169"
+    },
+    {
+      "name": "Jungle",
+      "paint": "205"
+    },
+    {
+      "name": "VariCamo Blue",
+      "paint": "238"
+    },
+    {
+      "name": "CaliCamo",
+      "paint": "240"
+    },
+    {
+      "name": "Heaven Guard",
+      "paint": "314"
+    },
+    {
+      "name": "Red Python",
+      "paint": "320"
+    },
+    {
+      "name": "Red Leather",
+      "paint": "348"
+    },
+    {
+      "name": "Bone Machine",
+      "paint": "370"
+    },
+    {
+      "name": "Tranquility",
+      "paint": "393"
+    },
+    {
+      "name": "Quicksilver",
+      "paint": "407"
+    },
+    {
+      "name": "Scumbria",
+      "paint": "505"
+    },
+    {
+      "name": "Teclu Burner",
+      "paint": "521"
+    },
+    {
+      "name": "Black Tie",
+      "paint": "557"
+    },
+    {
+      "name": "Slipstream",
+      "paint": "616"
+    },
+    {
+      "name": "Seasons",
+      "paint": "654"
+    },
+    {
+      "name": "Ziggy",
+      "paint": "689"
+    },
+    {
+      "name": "Oxide Blaze",
+      "paint": "706"
+    },
+    {
+      "name": "Banana Leaf",
+      "paint": "731"
+    },
+    {
+      "name": "Frost Borre",
+      "paint": "760"
+    },
+    {
+      "name": "Elegant Vines",
+      "paint": "821"
+    },
+    {
+      "name": "Incinegator",
+      "paint": "850"
+    },
+    {
+      "name": "Entombed",
+      "paint": "970"
+    },
+    {
+      "name": "Charter",
+      "paint": "994"
+    },
+    {
+      "name": "Ancient Lore",
+      "paint": "1021"
+    },
+    {
+      "name": "XOXO",
+      "paint": "1046"
+    },
+    {
+      "name": "Blue Tire",
+      "paint": "1078"
+    },
+    {
+      "name": "Watchdog",
+      "paint": "1103"
+    },
+    {
+      "name": "Zombie Offensive",
+      "paint": "1135"
+    },
+    {
+      "name": "Irezumi",
+      "paint": "1174"
+    },
+    {
+      "name": "Hieroglyph",
+      "paint": "1254"
+    }
+  ],
+  "26": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Candy Apple",
+      "paint": "3"
+    },
+    {
+      "name": "Blue Streak",
+      "paint": "13"
+    },
+    {
+      "name": "Forest Leaves",
+      "paint": "25"
+    },
+    {
+      "name": "Carbon Fiber",
+      "paint": "70"
+    },
+    {
+      "name": "Sand Dashed",
+      "paint": "148"
+    },
+    {
+      "name": "Urban Dashed",
+      "paint": "149"
+    },
+    {
+      "name": "Brass",
+      "paint": "159"
+    },
+    {
+      "name": "Modern Hunter",
+      "paint": "164"
+    },
+    {
+      "name": "Irradiated Alert",
+      "paint": "171"
+    },
+    {
+      "name": "Rust Coat",
+      "paint": "203"
+    },
+    {
+      "name": "Water Sigil",
+      "paint": "224"
+    },
+    {
+      "name": "Night Ops",
+      "paint": "236"
+    },
+    {
+      "name": "Cobalt Halftone",
+      "paint": "267"
+    },
+    {
+      "name": "Death Rattle",
+      "paint": "293"
+    },
+    {
+      "name": "Antique",
+      "paint": "306"
+    },
+    {
+      "name": "Osiris",
+      "paint": "349"
+    },
+    {
+      "name": "Chemical Green",
+      "paint": "376"
+    },
+    {
+      "name": "Bamboo Print",
+      "paint": "457"
+    },
+    {
+      "name": "Fuel Rod",
+      "paint": "508"
+    },
+    {
+      "name": "Photic Zone",
+      "paint": "526"
+    },
+    {
+      "name": "Judgement of Anubis",
+      "paint": "542"
+    },
+    {
+      "name": "Harvester",
+      "paint": "594"
+    },
+    {
+      "name": "Jungle Slipstream",
+      "paint": "641"
+    },
+    {
+      "name": "High Roller",
+      "paint": "676"
+    },
+    {
+      "name": "Night Riot",
+      "paint": "692"
+    },
+    {
+      "name": "Facility Sketch",
+      "paint": "775"
+    },
+    {
+      "name": "Anolis",
+      "paint": "829"
+    },
+    {
+      "name": "Seabird",
+      "paint": "873"
+    },
+    {
+      "name": "Embargo",
+      "paint": "884"
+    },
+    {
+      "name": "Runic",
+      "paint": "973"
+    },
+    {
+      "name": "Breaker Box",
+      "paint": "1083"
+    },
+    {
+      "name": "Lumen",
+      "paint": "1099"
+    },
+    {
+      "name": "Space Cat",
+      "paint": "1125"
+    }
+  ],
+  "27": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Silver",
+      "paint": "32"
+    },
+    {
+      "name": "Metallic DDPAT",
+      "paint": "34"
+    },
+    {
+      "name": "Bulldozer",
+      "paint": "39"
+    },
+    {
+      "name": "Carbon Fiber",
+      "paint": "70"
+    },
+    {
+      "name": "Sand Dune",
+      "paint": "99"
+    },
+    {
+      "name": "Storm",
+      "paint": "100"
+    },
+    {
+      "name": "Irradiated Alert",
+      "paint": "171"
+    },
+    {
+      "name": "Memento",
+      "paint": "177"
+    },
+    {
+      "name": "Hazard",
+      "paint": "198"
+    },
+    {
+      "name": "Heaven Guard",
+      "paint": "291"
+    },
+    {
+      "name": "Chainmail",
+      "paint": "327"
+    },
+    {
+      "name": "Firestarter",
+      "paint": "385"
+    },
+    {
+      "name": "Heat",
+      "paint": "431"
+    },
+    {
+      "name": "Counter Terrace",
+      "paint": "462"
+    },
+    {
+      "name": "Seabird",
+      "paint": "473"
+    },
+    {
+      "name": "Cobalt Core",
+      "paint": "499"
+    },
+    {
+      "name": "Praetorian",
+      "paint": "535"
+    },
+    {
+      "name": "Petroglyph",
+      "paint": "608"
+    },
+    {
+      "name": "Sonar",
+      "paint": "633"
+    },
+    {
+      "name": "Hard Water",
+      "paint": "666"
+    },
+    {
+      "name": "SWAG-7",
+      "paint": "703"
+    },
+    {
+      "name": "Cinquedea",
+      "paint": "737"
+    },
+    {
+      "name": "Rust Coat",
+      "paint": "754"
+    },
+    {
+      "name": "Core Breach",
+      "paint": "787"
+    },
+    {
+      "name": "Navy Sheen",
+      "paint": "822"
+    },
+    {
+      "name": "Popdog",
+      "paint": "909"
+    },
+    {
+      "name": "Justice",
+      "paint": "948"
+    },
+    {
+      "name": "Monster Call",
+      "paint": "961"
+    },
+    {
+      "name": "Prism Terrace",
+      "paint": "1072"
+    },
+    {
+      "name": "BI83 Spectrum",
+      "paint": "1089"
+    },
+    {
+      "name": "Foresight",
+      "paint": "1132"
+    },
+    {
+      "name": "Insomnia",
+      "paint": "1220"
+    },
+    {
+      "name": "Copper Coated",
+      "paint": "1245"
+    }
+  ],
+  "28": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Anodized Navy",
+      "paint": "28"
+    },
+    {
+      "name": "Palm",
+      "paint": "201"
+    },
+    {
+      "name": "CaliCamo",
+      "paint": "240"
+    },
+    {
+      "name": "Terrain",
+      "paint": "285"
+    },
+    {
+      "name": "Army Sheen",
+      "paint": "298"
+    },
+    {
+      "name": "Bratatat",
+      "paint": "317"
+    },
+    {
+      "name": "Desert-Strike",
+      "paint": "355"
+    },
+    {
+      "name": "Nuclear Waste",
+      "paint": "369"
+    },
+    {
+      "name": "Man-o'-war",
+      "paint": "432"
+    },
+    {
+      "name": "Loudmouth",
+      "paint": "483"
+    },
+    {
+      "name": "Power Loader",
+      "paint": "514"
+    },
+    {
+      "name": "Dazzle",
+      "paint": "610"
+    },
+    {
+      "name": "Lionfish",
+      "paint": "698"
+    },
+    {
+      "name": "Mjölnir",
+      "paint": "763"
+    },
+    {
+      "name": "Bulkhead",
+      "paint": "783"
+    },
+    {
+      "name": "Boroque Sand",
+      "paint": "920"
+    },
+    {
+      "name": "Prototype",
+      "paint": "950"
+    },
+    {
+      "name": "Ultralight",
+      "paint": "958"
+    },
+    {
+      "name": "Phoenix Stencil",
+      "paint": "1012"
+    },
+    {
+      "name": "dev_texture",
+      "paint": "1043"
+    },
+    {
+      "name": "Infrastructure",
+      "paint": "1080"
+    },
+    {
+      "name": "Drop Me",
+      "paint": "1152"
+    }
+  ],
+  "29": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Forest DDPAT",
+      "paint": "5"
+    },
+    {
+      "name": "Snake Camo",
+      "paint": "30"
+    },
+    {
+      "name": "Copper",
+      "paint": "41"
+    },
+    {
+      "name": "Orange DDPAT",
+      "paint": "83"
+    },
+    {
+      "name": "Sage Spray",
+      "paint": "119"
+    },
+    {
+      "name": "Irradiated Alert",
+      "paint": "171"
+    },
+    {
+      "name": "Mosaico",
+      "paint": "204"
+    },
+    {
+      "name": "Amber Fade",
+      "paint": "246"
+    },
+    {
+      "name": "Full Stop",
+      "paint": "250"
+    },
+    {
+      "name": "The Kraken",
+      "paint": "256"
+    },
+    {
+      "name": "Rust Coat",
+      "paint": "323"
+    },
+    {
+      "name": "First Class",
+      "paint": "345"
+    },
+    {
+      "name": "Highwayman",
+      "paint": "390"
+    },
+    {
+      "name": "Serenity",
+      "paint": "405"
+    },
+    {
+      "name": "Origami",
+      "paint": "434"
+    },
+    {
+      "name": "Bamboo Shadow",
+      "paint": "458"
+    },
+    {
+      "name": "Yorick",
+      "paint": "517"
+    },
+    {
+      "name": "Fubar",
+      "paint": "552"
+    },
+    {
+      "name": "Limelight",
+      "paint": "596"
+    },
+    {
+      "name": "Wasteland Princess",
+      "paint": "638"
+    },
+    {
+      "name": "Zander",
+      "paint": "655"
+    },
+    {
+      "name": "Morris",
+      "paint": "673"
+    },
+    {
+      "name": "Devourer",
+      "paint": "720"
+    },
+    {
+      "name": "Brake Light",
+      "paint": "797"
+    },
+    {
+      "name": "Black Sand",
+      "paint": "814"
+    },
+    {
+      "name": "Jungle Thicket",
+      "paint": "870"
+    },
+    {
+      "name": "Parched",
+      "paint": "880"
+    },
+    {
+      "name": "Apocalypto",
+      "paint": "953"
+    },
+    {
+      "name": "Clay Ambush",
+      "paint": "1014"
+    },
+    {
+      "name": "Spirit Board",
+      "paint": "1140"
+    },
+    {
+      "name": "Kiss♥Love",
+      "paint": "1155"
+    },
+    {
+      "name": "Analog Input",
+      "paint": "1160"
+    }
+  ],
+  "30": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Groundwater",
+      "paint": "2"
+    },
+    {
+      "name": "Urban DDPAT",
+      "paint": "17"
+    },
+    {
+      "name": "Ossified",
+      "paint": "36"
+    },
+    {
+      "name": "Brass",
+      "paint": "159"
+    },
+    {
+      "name": "Nuclear Threat",
+      "paint": "179"
+    },
+    {
+      "name": "Tornado",
+      "paint": "206"
+    },
+    {
+      "name": "Blue Titanium",
+      "paint": "216"
+    },
+    {
+      "name": "VariCamo",
+      "paint": "235"
+    },
+    {
+      "name": "Army Mesh",
+      "paint": "242"
+    },
+    {
+      "name": "Red Quartz",
+      "paint": "248"
+    },
+    {
+      "name": "Titanium Bit",
+      "paint": "272"
+    },
+    {
+      "name": "Sandstorm",
+      "paint": "289"
+    },
+    {
+      "name": "Isaac",
+      "paint": "303"
+    },
+    {
+      "name": "Toxic",
+      "paint": "374"
+    },
+    {
+      "name": "Hades",
+      "paint": "439"
+    },
+    {
+      "name": "Bamboo Forest",
+      "paint": "459"
+    },
+    {
+      "name": "Terrace",
+      "paint": "463"
+    },
+    {
+      "name": "Avalanche",
+      "paint": "520"
+    },
+    {
+      "name": "Jambiya",
+      "paint": "539"
+    },
+    {
+      "name": "Re-Entry",
+      "paint": "555"
+    },
+    {
+      "name": "Ice Cap",
+      "paint": "599"
+    },
+    {
+      "name": "Fuel Injector",
+      "paint": "614"
+    },
+    {
+      "name": "Cut Out",
+      "paint": "671"
+    },
+    {
+      "name": "Cracked Opal",
+      "paint": "684"
+    },
+    {
+      "name": "Snek-9",
+      "paint": "722"
+    },
+    {
+      "name": "Rust Leaf",
+      "paint": "733"
+    },
+    {
+      "name": "Orange Murano",
+      "paint": "738"
+    },
+    {
+      "name": "Remote Control",
+      "paint": "791"
+    },
+    {
+      "name": "Safety Net",
+      "paint": "795"
+    },
+    {
+      "name": "Fubar",
+      "paint": "816"
+    },
+    {
+      "name": "Bamboozle",
+      "paint": "839"
+    },
+    {
+      "name": "Decimator",
+      "paint": "889"
+    },
+    {
+      "name": "Flash Out",
+      "paint": "905"
+    },
+    {
+      "name": "Brother",
+      "paint": "964"
+    },
+    {
+      "name": "Phoenix Chalk",
+      "paint": "1010"
+    },
+    {
+      "name": "Blast From the Past",
+      "paint": "1024"
+    },
+    {
+      "name": "Slag",
+      "paint": "1159"
+    },
+    {
+      "name": "Rebel",
+      "paint": "1235"
+    },
+    {
+      "name": "Mummy's Rot",
+      "paint": "1252"
+    }
+  ],
+  "31": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Olympus",
+      "paint": "1172"
+    }
+  ],
+  "32": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Granite Marbleized",
+      "paint": "21"
+    },
+    {
+      "name": "Silver",
+      "paint": "32"
+    },
+    {
+      "name": "Scorpion",
+      "paint": "71"
+    },
+    {
+      "name": "Grassland",
+      "paint": "95"
+    },
+    {
+      "name": "Grassland Leaves",
+      "paint": "104"
+    },
+    {
+      "name": "Corticera",
+      "paint": "184"
+    },
+    {
+      "name": "Ocean Foam",
+      "paint": "211"
+    },
+    {
+      "name": "Amber Fade",
+      "paint": "246"
+    },
+    {
+      "name": "Red FragCam",
+      "paint": "275"
+    },
+    {
+      "name": "Chainmail",
+      "paint": "327"
+    },
+    {
+      "name": "Pulse",
+      "paint": "338"
+    },
+    {
+      "name": "Coach Class",
+      "paint": "346"
+    },
+    {
+      "name": "Ivory",
+      "paint": "357"
+    },
+    {
+      "name": "Fire Elemental",
+      "paint": "389"
+    },
+    {
+      "name": "Pathfinder",
+      "paint": "443"
+    },
+    {
+      "name": "Handgun",
+      "paint": "485"
+    },
+    {
+      "name": "Imperial",
+      "paint": "515"
+    },
+    {
+      "name": "Oceanic",
+      "paint": "550"
+    },
+    {
+      "name": "Imperial Dragon",
+      "paint": "591"
+    },
+    {
+      "name": "Turf",
+      "paint": "635"
+    },
+    {
+      "name": "Woodsman",
+      "paint": "667"
+    },
+    {
+      "name": "Urban Hazard",
+      "paint": "700"
+    },
+    {
+      "name": "Obsidian",
+      "paint": "894"
+    },
+    {
+      "name": "Acid Etched",
+      "paint": "951"
+    },
+    {
+      "name": "Gnarled",
+      "paint": "960"
+    },
+    {
+      "name": "Dispatch",
+      "paint": "997"
+    },
+    {
+      "name": "Panther Camo",
+      "paint": "1019"
+    },
+    {
+      "name": "Space Race",
+      "paint": "1055"
+    },
+    {
+      "name": "Lifted Spirits",
+      "paint": "1138"
+    },
+    {
+      "name": "Wicked Sick",
+      "paint": "1224"
+    }
+  ],
+  "33": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Forest DDPAT",
+      "paint": "5"
+    },
+    {
+      "name": "Skulls",
+      "paint": "11"
+    },
+    {
+      "name": "Gunsmoke",
+      "paint": "15"
+    },
+    {
+      "name": "Anodized Navy",
+      "paint": "28"
+    },
+    {
+      "name": "Whiteout",
+      "paint": "102"
+    },
+    {
+      "name": "Orange Peel",
+      "paint": "141"
+    },
+    {
+      "name": "Scorched",
+      "paint": "175"
+    },
+    {
+      "name": "Groundwater",
+      "paint": "209"
+    },
+    {
+      "name": "Ocean Foam",
+      "paint": "213"
+    },
+    {
+      "name": "Army Recon",
+      "paint": "245"
+    },
+    {
+      "name": "Full Stop",
+      "paint": "250"
+    },
+    {
+      "name": "Urban Hazard",
+      "paint": "354"
+    },
+    {
+      "name": "Olive Plaid",
+      "paint": "365"
+    },
+    {
+      "name": "Armor Core",
+      "paint": "423"
+    },
+    {
+      "name": "Asterion",
+      "paint": "442"
+    },
+    {
+      "name": "Nemesis",
+      "paint": "481"
+    },
+    {
+      "name": "Special Delivery",
+      "paint": "500"
+    },
+    {
+      "name": "Impire",
+      "paint": "536"
+    },
+    {
+      "name": "Cirrus",
+      "paint": "627"
+    },
+    {
+      "name": "Akoben",
+      "paint": "649"
+    },
+    {
+      "name": "Bloodsport",
+      "paint": "696"
+    },
+    {
+      "name": "Powercore",
+      "paint": "719"
+    },
+    {
+      "name": "Teal Blossom",
+      "paint": "728"
+    },
+    {
+      "name": "Fade",
+      "paint": "752"
+    },
+    {
+      "name": "Motherboard",
+      "paint": "782"
+    },
+    {
+      "name": "Mischief",
+      "paint": "847"
+    },
+    {
+      "name": "Neon Ply",
+      "paint": "893"
+    },
+    {
+      "name": "Prey",
+      "paint": "935"
+    },
+    {
+      "name": "Vault Heist",
+      "paint": "1007"
+    },
+    {
+      "name": "Tall Grass",
+      "paint": "1023"
+    },
+    {
+      "name": "Guerrilla",
+      "paint": "1096"
+    },
+    {
+      "name": "Abyssal Apparition",
+      "paint": "1133"
+    },
+    {
+      "name": "Just Smile",
+      "paint": "1163"
+    },
+    {
+      "name": "Sunbaked",
+      "paint": "1246"
+    }
+  ],
+  "34": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Hot Rod",
+      "paint": "33"
+    },
+    {
+      "name": "Bulldozer",
+      "paint": "39"
+    },
+    {
+      "name": "Hypnotic",
+      "paint": "61"
+    },
+    {
+      "name": "Storm",
+      "paint": "100"
+    },
+    {
+      "name": "Orange Peel",
+      "paint": "141"
+    },
+    {
+      "name": "Sand Dashed",
+      "paint": "148"
+    },
+    {
+      "name": "Dry Season",
+      "paint": "199"
+    },
+    {
+      "name": "Rose Iron",
+      "paint": "262"
+    },
+    {
+      "name": "Army Sheen",
+      "paint": "298"
+    },
+    {
+      "name": "Dark Age",
+      "paint": "329"
+    },
+    {
+      "name": "Green Plaid",
+      "paint": "366"
+    },
+    {
+      "name": "Setting Sun",
+      "paint": "368"
+    },
+    {
+      "name": "Dart",
+      "paint": "386"
+    },
+    {
+      "name": "Deadly Poison",
+      "paint": "403"
+    },
+    {
+      "name": "Pandora's Box",
+      "paint": "448"
+    },
+    {
+      "name": "Ruby Poison Dart",
+      "paint": "482"
+    },
+    {
+      "name": "Bioleak",
+      "paint": "549"
+    },
+    {
+      "name": "Airlock",
+      "paint": "609"
+    },
+    {
+      "name": "Sand Scale",
+      "paint": "630"
+    },
+    {
+      "name": "Goo",
+      "paint": "679"
+    },
+    {
+      "name": "Black Sand",
+      "paint": "697"
+    },
+    {
+      "name": "Capillary",
+      "paint": "715"
+    },
+    {
+      "name": "Wild Lily",
+      "paint": "734"
+    },
+    {
+      "name": "Slide",
+      "paint": "755"
+    },
+    {
+      "name": "Modest Threat",
+      "paint": "804"
+    },
+    {
+      "name": "Music Box",
+      "paint": "820"
+    },
+    {
+      "name": "Stained Glass",
+      "paint": "867"
+    },
+    {
+      "name": "Hydra",
+      "paint": "910"
+    },
+    {
+      "name": "Old Roots",
+      "paint": "931"
+    },
+    {
+      "name": "Food Chain",
+      "paint": "1037"
+    },
+    {
+      "name": "Mount Fuji",
+      "paint": "1094"
+    },
+    {
+      "name": "Starlight Protector",
+      "paint": "1134"
+    },
+    {
+      "name": "Featherweight",
+      "paint": "1225"
+    }
+  ],
+  "35": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Candy Apple",
+      "paint": "3"
+    },
+    {
+      "name": "Forest Leaves",
+      "paint": "25"
+    },
+    {
+      "name": "Bloomstick",
+      "paint": "62"
+    },
+    {
+      "name": "Sand Dune",
+      "paint": "99"
+    },
+    {
+      "name": "Polar Mesh",
+      "paint": "107"
+    },
+    {
+      "name": "Walnut",
+      "paint": "158"
+    },
+    {
+      "name": "Modern Hunter",
+      "paint": "164"
+    },
+    {
+      "name": "Blaze Orange",
+      "paint": "166"
+    },
+    {
+      "name": "Predator",
+      "paint": "170"
+    },
+    {
+      "name": "Tempest",
+      "paint": "191"
+    },
+    {
+      "name": "Graphite",
+      "paint": "214"
+    },
+    {
+      "name": "Ghost Camo",
+      "paint": "225"
+    },
+    {
+      "name": "Red Quartz",
+      "paint": "248"
+    },
+    {
+      "name": "Rising Skull",
+      "paint": "263"
+    },
+    {
+      "name": "Antique",
+      "paint": "286"
+    },
+    {
+      "name": "Green Apple",
+      "paint": "294"
+    },
+    {
+      "name": "Army Sheen",
+      "paint": "298"
+    },
+    {
+      "name": "Caged Steel",
+      "paint": "299"
+    },
+    {
+      "name": "Rust Coat",
+      "paint": "323"
+    },
+    {
+      "name": "Koi",
+      "paint": "356"
+    },
+    {
+      "name": "Moon in Libra",
+      "paint": "450"
+    },
+    {
+      "name": "Ranger",
+      "paint": "484"
+    },
+    {
+      "name": "Hyper Beast",
+      "paint": "537"
+    },
+    {
+      "name": "Exo",
+      "paint": "590"
+    },
+    {
+      "name": "Gila",
+      "paint": "634"
+    },
+    {
+      "name": "Wild Six",
+      "paint": "699"
+    },
+    {
+      "name": "Toy Soldier",
+      "paint": "716"
+    },
+    {
+      "name": "Baroque Orange",
+      "paint": "746"
+    },
+    {
+      "name": "Mandrel",
+      "paint": "785"
+    },
+    {
+      "name": "Wood Fired",
+      "paint": "809"
+    },
+    {
+      "name": "Plume",
+      "paint": "890"
+    },
+    {
+      "name": "Quick Sand",
+      "paint": "929"
+    },
+    {
+      "name": "Clear Polymer",
+      "paint": "987"
+    },
+    {
+      "name": "Windblown",
+      "paint": "1051"
+    },
+    {
+      "name": "Interlock",
+      "paint": "1077"
+    },
+    {
+      "name": "Dark Sigil",
+      "paint": "1162"
+    },
+    {
+      "name": "Sobek's Bite",
+      "paint": "1247"
+    }
+  ],
+  "36": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Gunsmoke",
+      "paint": "15"
+    },
+    {
+      "name": "Bone Mask",
+      "paint": "27"
+    },
+    {
+      "name": "Metallic DDPAT",
+      "paint": "34"
+    },
+    {
+      "name": "Boreal Forest",
+      "paint": "77"
+    },
+    {
+      "name": "Forest Night",
+      "paint": "78"
+    },
+    {
+      "name": "Sand Dune",
+      "paint": "99"
+    },
+    {
+      "name": "Whiteout",
+      "paint": "102"
+    },
+    {
+      "name": "X-Ray",
+      "paint": "125"
+    },
+    {
+      "name": "Splash",
+      "paint": "162"
+    },
+    {
+      "name": "Modern Hunter",
+      "paint": "164"
+    },
+    {
+      "name": "Nuclear Threat",
+      "paint": "168"
+    },
+    {
+      "name": "Facets",
+      "paint": "207"
+    },
+    {
+      "name": "Hive",
+      "paint": "219"
+    },
+    {
+      "name": "Steel Disruption",
+      "paint": "230"
+    },
+    {
+      "name": "Mehndi",
+      "paint": "258"
+    },
+    {
+      "name": "Undertow",
+      "paint": "271"
+    },
+    {
+      "name": "Franklin",
+      "paint": "295"
+    },
+    {
+      "name": "Supernova",
+      "paint": "358"
+    },
+    {
+      "name": "Contamination",
+      "paint": "373"
+    },
+    {
+      "name": "Cartel",
+      "paint": "388"
+    },
+    {
+      "name": "Muertos",
+      "paint": "404"
+    },
+    {
+      "name": "Valence",
+      "paint": "426"
+    },
+    {
+      "name": "Crimson Kimono",
+      "paint": "466"
+    },
+    {
+      "name": "Mint Kimono",
+      "paint": "467"
+    },
+    {
+      "name": "Wingshot",
+      "paint": "501"
+    },
+    {
+      "name": "Asiimov",
+      "paint": "551"
+    },
+    {
+      "name": "Iron Clad",
+      "paint": "592"
+    },
+    {
+      "name": "Ripple",
+      "paint": "650"
+    },
+    {
+      "name": "Red Rock",
+      "paint": "668"
+    },
+    {
+      "name": "See Ya Later",
+      "paint": "678"
+    },
+    {
+      "name": "Dark Filigree",
+      "paint": "741"
+    },
+    {
+      "name": "Vino Primo",
+      "paint": "749"
+    },
+    {
+      "name": "Facility Draft",
+      "paint": "777"
+    },
+    {
+      "name": "Exchanger",
+      "paint": "786"
+    },
+    {
+      "name": "Nevermore",
+      "paint": "813"
+    },
+    {
+      "name": "Drought",
+      "paint": "825"
+    },
+    {
+      "name": "Verdigris",
+      "paint": "848"
+    },
+    {
+      "name": "Inferno",
+      "paint": "907"
+    },
+    {
+      "name": "Black & Tan",
+      "paint": "928"
+    },
+    {
+      "name": "Cassette",
+      "paint": "968"
+    },
+    {
+      "name": "Contaminant",
+      "paint": "982"
+    },
+    {
+      "name": "Bengal Tiger",
+      "paint": "1030"
+    },
+    {
+      "name": "Cyber Shell",
+      "paint": "1044"
+    },
+    {
+      "name": "Digital Architect",
+      "paint": "1081"
+    },
+    {
+      "name": "Visions",
+      "paint": "1153"
+    },
+    {
+      "name": "Re.built",
+      "paint": "1230"
+    },
+    {
+      "name": "Apep's Curse",
+      "paint": "1248"
+    }
+  ],
+  "38": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Contractor",
+      "paint": "46"
+    },
+    {
+      "name": "Carbon Fiber",
+      "paint": "70"
+    },
+    {
+      "name": "Storm",
+      "paint": "100"
+    },
+    {
+      "name": "Sand Mesh",
+      "paint": "116"
+    },
+    {
+      "name": "Palm",
+      "paint": "157"
+    },
+    {
+      "name": "Brass",
+      "paint": "159"
+    },
+    {
+      "name": "Splash Jam",
+      "paint": "165"
+    },
+    {
+      "name": "Emerald",
+      "paint": "196"
+    },
+    {
+      "name": "Crimson Web",
+      "paint": "232"
+    },
+    {
+      "name": "Army Sheen",
+      "paint": "298"
+    },
+    {
+      "name": "Cyrex",
+      "paint": "312"
+    },
+    {
+      "name": "Cardiac",
+      "paint": "391"
+    },
+    {
+      "name": "Grotto",
+      "paint": "406"
+    },
+    {
+      "name": "Green Marine",
+      "paint": "502"
+    },
+    {
+      "name": "Outbreak",
+      "paint": "518"
+    },
+    {
+      "name": "Bloodsport",
+      "paint": "597"
+    },
+    {
+      "name": "Powercore",
+      "paint": "612"
+    },
+    {
+      "name": "Blueprint",
+      "paint": "642"
+    },
+    {
+      "name": "Jungle Slipstream",
+      "paint": "685"
+    },
+    {
+      "name": "Stone Mosaico",
+      "paint": "865"
+    },
+    {
+      "name": "Torn",
+      "paint": "896"
+    },
+    {
+      "name": "Assault",
+      "paint": "914"
+    },
+    {
+      "name": "Enforcer",
+      "paint": "954"
+    },
+    {
+      "name": "Magna Carta",
+      "paint": "1028"
+    },
+    {
+      "name": "Poultrygeist",
+      "paint": "1139"
+    },
+    {
+      "name": "Fragments",
+      "paint": "1226"
+    }
+  ],
+  "39": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Anodized Navy",
+      "paint": "28"
+    },
+    {
+      "name": "Bulldozer",
+      "paint": "39"
+    },
+    {
+      "name": "Hypnotic",
+      "paint": "61"
+    },
+    {
+      "name": "Ultraviolet",
+      "paint": "98"
+    },
+    {
+      "name": "Tornado",
+      "paint": "101"
+    },
+    {
+      "name": "Waves Perforated",
+      "paint": "136"
+    },
+    {
+      "name": "Wave Spray",
+      "paint": "186"
+    },
+    {
+      "name": "Gator Mesh",
+      "paint": "243"
+    },
+    {
+      "name": "Damascus Steel",
+      "paint": "247"
+    },
+    {
+      "name": "Pulse",
+      "paint": "287"
+    },
+    {
+      "name": "Army Sheen",
+      "paint": "298"
+    },
+    {
+      "name": "Traveler",
+      "paint": "363"
+    },
+    {
+      "name": "Fallout Warning",
+      "paint": "378"
+    },
+    {
+      "name": "Cyrex",
+      "paint": "487"
+    },
+    {
+      "name": "Tiger Moth",
+      "paint": "519"
+    },
+    {
+      "name": "Atlas",
+      "paint": "553"
+    },
+    {
+      "name": "Aerial",
+      "paint": "598"
+    },
+    {
+      "name": "Triarch",
+      "paint": "613"
+    },
+    {
+      "name": "Phantom",
+      "paint": "686"
+    },
+    {
+      "name": "Aloha",
+      "paint": "702"
+    },
+    {
+      "name": "Integrale",
+      "paint": "750"
+    },
+    {
+      "name": "Desert Blossom",
+      "paint": "765"
+    },
+    {
+      "name": "Danger Close",
+      "paint": "815"
+    },
+    {
+      "name": "Barricade",
+      "paint": "861"
+    },
+    {
+      "name": "Candy Apple",
+      "paint": "864"
+    },
+    {
+      "name": "Colony IV",
+      "paint": "897"
+    },
+    {
+      "name": "Bleached",
+      "paint": "934"
+    },
+    {
+      "name": "Darkwing",
+      "paint": "955"
+    },
+    {
+      "name": "Ol' Rusty",
+      "paint": "966"
+    },
+    {
+      "name": "Lush Ruins",
+      "paint": "1022"
+    },
+    {
+      "name": "Heavy Metal",
+      "paint": "1048"
+    },
+    {
+      "name": "Hazard Pay",
+      "paint": "1084"
+    },
+    {
+      "name": "Dragon Tech",
+      "paint": "1151"
+    },
+    {
+      "name": "Cyberforce",
+      "paint": "1234"
+    }
+  ],
+  "40": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Lichen Dashed",
+      "paint": "26"
+    },
+    {
+      "name": "Dark Water",
+      "paint": "60"
+    },
+    {
+      "name": "Carbon Fiber",
+      "paint": "70"
+    },
+    {
+      "name": "Blue Spruce",
+      "paint": "96"
+    },
+    {
+      "name": "Sand Dune",
+      "paint": "99"
+    },
+    {
+      "name": "Jungle Dashed",
+      "paint": "147"
+    },
+    {
+      "name": "Mayan Dreams",
+      "paint": "200"
+    },
+    {
+      "name": "Blood in the Water",
+      "paint": "222"
+    },
+    {
+      "name": "Tropical Storm",
+      "paint": "233"
+    },
+    {
+      "name": "Acid Fade",
+      "paint": "253"
+    },
+    {
+      "name": "Slashed",
+      "paint": "304"
+    },
+    {
+      "name": "Detour",
+      "paint": "319"
+    },
+    {
+      "name": "Abyss",
+      "paint": "361"
+    },
+    {
+      "name": "Big Iron",
+      "paint": "503"
+    },
+    {
+      "name": "Necropos",
+      "paint": "538"
+    },
+    {
+      "name": "Ghost Crusader",
+      "paint": "554"
+    },
+    {
+      "name": "Dragonfire",
+      "paint": "624"
+    },
+    {
+      "name": "Death's Head",
+      "paint": "670"
+    },
+    {
+      "name": "Orange Filigree",
+      "paint": "743"
+    },
+    {
+      "name": "Hand Brake",
+      "paint": "751"
+    },
+    {
+      "name": "Red Stone",
+      "paint": "762"
+    },
+    {
+      "name": "Sea Calico",
+      "paint": "868"
+    },
+    {
+      "name": "Bloodshot",
+      "paint": "899"
+    },
+    {
+      "name": "Prey",
+      "paint": "935"
+    },
+    {
+      "name": "Fever Dream",
+      "paint": "956"
+    },
+    {
+      "name": "Mainframe 001",
+      "paint": "967"
+    },
+    {
+      "name": "Parallax",
+      "paint": "989"
+    },
+    {
+      "name": "Threat Detected",
+      "paint": "996"
+    },
+    {
+      "name": "Death Strike",
+      "paint": "1052"
+    },
+    {
+      "name": "Spring Twilly",
+      "paint": "1060"
+    },
+    {
+      "name": "Turbo Peek",
+      "paint": "1101"
+    },
+    {
+      "name": "Dezastre",
+      "paint": "1161"
+    },
+    {
+      "name": "Azure Glyph",
+      "paint": "1251"
+    }
+  ],
+  "60": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Dark Water",
+      "paint": "60"
+    },
+    {
+      "name": "Boreal Forest",
+      "paint": "77"
+    },
+    {
+      "name": "Bright Water",
+      "paint": "189"
+    },
+    {
+      "name": "Blood Tiger",
+      "paint": "217"
+    },
+    {
+      "name": "VariCamo",
+      "paint": "235"
+    },
+    {
+      "name": "Nitro",
+      "paint": "254"
+    },
+    {
+      "name": "Guardian",
+      "paint": "257"
+    },
+    {
+      "name": "Atomic Alloy",
+      "paint": "301"
+    },
+    {
+      "name": "Master Piece",
+      "paint": "321"
+    },
+    {
+      "name": "Knight",
+      "paint": "326"
+    },
+    {
+      "name": "Cyrex",
+      "paint": "360"
+    },
+    {
+      "name": "Basilisk",
+      "paint": "383"
+    },
+    {
+      "name": "Hyper Beast",
+      "paint": "430"
+    },
+    {
+      "name": "Icarus Fell",
+      "paint": "440"
+    },
+    {
+      "name": "Hot Rod",
+      "paint": "445"
+    },
+    {
+      "name": "Golden Coil",
+      "paint": "497"
+    },
+    {
+      "name": "Chantico's Fire",
+      "paint": "548"
+    },
+    {
+      "name": "Mecha Industries",
+      "paint": "587"
+    },
+    {
+      "name": "Flashback",
+      "paint": "631"
+    },
+    {
+      "name": "Decimator",
+      "paint": "644"
+    },
+    {
+      "name": "Briefing",
+      "paint": "663"
+    },
+    {
+      "name": "Leaded Glass",
+      "paint": "681"
+    },
+    {
+      "name": "Nightmare",
+      "paint": "714"
+    },
+    {
+      "name": "Control Panel",
+      "paint": "792"
+    },
+    {
+      "name": "Moss Quartz",
+      "paint": "862"
+    },
+    {
+      "name": "Player Two",
+      "paint": "946"
+    },
+    {
+      "name": "Printstream",
+      "paint": "984"
+    },
+    {
+      "name": "Welcome to the Jungle",
+      "paint": "1001"
+    },
+    {
+      "name": "Blue Phosphor",
+      "paint": "1017"
+    },
+    {
+      "name": "Fizzy POP",
+      "paint": "1059"
+    },
+    {
+      "name": "Imminent Danger",
+      "paint": "1073"
+    },
+    {
+      "name": "Night Terror",
+      "paint": "1130"
+    },
+    {
+      "name": "Black Lotus",
+      "paint": "1166"
+    },
+    {
+      "name": "Emphorosaur-S",
+      "paint": "1223"
+    },
+    {
+      "name": "Mud-Spec",
+      "paint": "1243"
+    }
+  ],
+  "61": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Forest Leaves",
+      "paint": "25"
+    },
+    {
+      "name": "Dark Water",
+      "paint": "60"
+    },
+    {
+      "name": "Overgrowth",
+      "paint": "183"
+    },
+    {
+      "name": "Blood Tiger",
+      "paint": "217"
+    },
+    {
+      "name": "Serum",
+      "paint": "221"
+    },
+    {
+      "name": "Night Ops",
+      "paint": "236"
+    },
+    {
+      "name": "Stainless",
+      "paint": "277"
+    },
+    {
+      "name": "Guardian",
+      "paint": "290"
+    },
+    {
+      "name": "Orion",
+      "paint": "313"
+    },
+    {
+      "name": "Road Rash",
+      "paint": "318"
+    },
+    {
+      "name": "Royal Blue",
+      "paint": "332"
+    },
+    {
+      "name": "Caiman",
+      "paint": "339"
+    },
+    {
+      "name": "Business Class",
+      "paint": "364"
+    },
+    {
+      "name": "Pathfinder",
+      "paint": "443"
+    },
+    {
+      "name": "Para Green",
+      "paint": "454"
+    },
+    {
+      "name": "Torque",
+      "paint": "489"
+    },
+    {
+      "name": "Kill Confirmed",
+      "paint": "504"
+    },
+    {
+      "name": "Lead Conduit",
+      "paint": "540"
+    },
+    {
+      "name": "Cyrex",
+      "paint": "637"
+    },
+    {
+      "name": "Neo-Noir",
+      "paint": "653"
+    },
+    {
+      "name": "Blueprint",
+      "paint": "657"
+    },
+    {
+      "name": "Cortex",
+      "paint": "705"
+    },
+    {
+      "name": "Check Engine",
+      "paint": "796"
+    },
+    {
+      "name": "Flashback",
+      "paint": "817"
+    },
+    {
+      "name": "Purple DDPAT",
+      "paint": "818"
+    },
+    {
+      "name": "Orange Anolis",
+      "paint": "922"
+    },
+    {
+      "name": "Monster Mashup",
+      "paint": "991"
+    },
+    {
+      "name": "Target Acquired",
+      "paint": "1027"
+    },
+    {
+      "name": "Ancient Visions",
+      "paint": "1031"
+    },
+    {
+      "name": "The Traitor",
+      "paint": "1040"
+    },
+    {
+      "name": "Whiteout",
+      "paint": "1065"
+    },
+    {
+      "name": "Black Lotus",
+      "paint": "1102"
+    },
+    {
+      "name": "Ticket to Hell",
+      "paint": "1136"
+    },
+    {
+      "name": "Printstream",
+      "paint": "1142"
+    },
+    {
+      "name": "Jawbreaker",
+      "paint": "1173"
+    },
+    {
+      "name": "Desert Tactical",
+      "paint": "1253"
+    }
+  ],
+  "63": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Crimson Web",
+      "paint": "12"
+    },
+    {
+      "name": "Silver",
+      "paint": "32"
+    },
+    {
+      "name": "Jungle Dashed",
+      "paint": "147"
+    },
+    {
+      "name": "Hexane",
+      "paint": "218"
+    },
+    {
+      "name": "Tread Plate",
+      "paint": "268"
+    },
+    {
+      "name": "The Fuschia Is Now",
+      "paint": "269"
+    },
+    {
+      "name": "Victoria",
+      "paint": "270"
+    },
+    {
+      "name": "Tuxedo",
+      "paint": "297"
+    },
+    {
+      "name": "Army Sheen",
+      "paint": "298"
+    },
+    {
+      "name": "Poison Dart",
+      "paint": "315"
+    },
+    {
+      "name": "Nitro",
+      "paint": "322"
+    },
+    {
+      "name": "Chalice",
+      "paint": "325"
+    },
+    {
+      "name": "Indigo",
+      "paint": "333"
+    },
+    {
+      "name": "Twist",
+      "paint": "334"
+    },
+    {
+      "name": "Tigris",
+      "paint": "350"
+    },
+    {
+      "name": "Green Plaid",
+      "paint": "366"
+    },
+    {
+      "name": "Pole Position",
+      "paint": "435"
+    },
+    {
+      "name": "Emerald",
+      "paint": "453"
+    },
+    {
+      "name": "Yellow Jacket",
+      "paint": "476"
+    },
+    {
+      "name": "Red Astor",
+      "paint": "543"
+    },
+    {
+      "name": "Imprint",
+      "paint": "602"
+    },
+    {
+      "name": "Polymer",
+      "paint": "622"
+    },
+    {
+      "name": "Xiangliu",
+      "paint": "643"
+    },
+    {
+      "name": "Tacticat",
+      "paint": "687"
+    },
+    {
+      "name": "Eco",
+      "paint": "709"
+    },
+    {
+      "name": "Emerald Quartz",
+      "paint": "859"
+    },
+    {
+      "name": "Midnight Palm",
+      "paint": "933"
+    },
+    {
+      "name": "Distressed",
+      "paint": "944"
+    },
+    {
+      "name": "Vendetta",
+      "paint": "976"
+    },
+    {
+      "name": "Circaetus",
+      "paint": "1036"
+    },
+    {
+      "name": "Syndicate",
+      "paint": "1064"
+    },
+    {
+      "name": "Framework",
+      "paint": "1076"
+    }
+  ],
+  "64": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Crimson Web",
+      "paint": "12"
+    },
+    {
+      "name": "Bone Mask",
+      "paint": "27"
+    },
+    {
+      "name": "Blaze",
+      "paint": "37"
+    },
+    {
+      "name": "Night",
+      "paint": "40"
+    },
+    {
+      "name": "Fade",
+      "paint": "522"
+    },
+    {
+      "name": "Amber Fade",
+      "paint": "523"
+    },
+    {
+      "name": "Reboot",
+      "paint": "595"
+    },
+    {
+      "name": "Llama Cannon",
+      "paint": "683"
+    },
+    {
+      "name": "Grip",
+      "paint": "701"
+    },
+    {
+      "name": "Survivalist",
+      "paint": "721"
+    },
+    {
+      "name": "Nitro",
+      "paint": "798"
+    },
+    {
+      "name": "Skull Crusher",
+      "paint": "843"
+    },
+    {
+      "name": "Canal Spray",
+      "paint": "866"
+    },
+    {
+      "name": "Memento",
+      "paint": "892"
+    },
+    {
+      "name": "Desert Brush",
+      "paint": "924"
+    },
+    {
+      "name": "Bone Forged",
+      "paint": "952"
+    },
+    {
+      "name": "Phoenix Marker",
+      "paint": "1011"
+    },
+    {
+      "name": "Junk Yard",
+      "paint": "1047"
+    },
+    {
+      "name": "Crazy 8",
+      "paint": "1145"
+    },
+    {
+      "name": "Banana Cannon",
+      "paint": "1232"
+    },
+    {
+      "name": "Inlay",
+      "paint": "1237"
+    }
+  ],
+  "500": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Forest DDPAT",
+      "paint": "5"
+    },
+    {
+      "name": "Crimson Web",
+      "paint": "12"
+    },
+    {
+      "name": "Fade",
+      "paint": "38"
+    },
+    {
+      "name": "Night",
+      "paint": "40"
+    },
+    {
+      "name": "Blue Steel",
+      "paint": "42"
+    },
+    {
+      "name": "Stained",
+      "paint": "43"
+    },
+    {
+      "name": "Case Hardened",
+      "paint": "44"
+    },
+    {
+      "name": "Slaughter",
+      "paint": "59"
+    },
+    {
+      "name": "Safari Mesh",
+      "paint": "72"
+    },
+    {
+      "name": "Boreal Forest",
+      "paint": "77"
+    },
+    {
+      "name": "Ultraviolet",
+      "paint": "98"
+    },
+    {
+      "name": "Urban Masked",
+      "paint": "143"
+    },
+    {
+      "name": "Scorched",
+      "paint": "175"
+    },
+    {
+      "name": "Tiger Tooth",
+      "paint": "409"
+    },
+    {
+      "name": "Damascus Steel",
+      "paint": "410"
+    },
+    {
+      "name": "Marble Fade",
+      "paint": "413"
+    },
+    {
+      "name": "Rust Coat",
+      "paint": "414"
+    },
+    {
+      "name": "Doppler (Ruby)",
+      "paint": "415"
+    },
+    {
+      "name": "Doppler (Sapphire)",
+      "paint": "416"
+    },
+    {
+      "name": "Doppler (Black Pearl)",
+      "paint": "417"
+    },
+    {
+      "name": "Doppler (Phase 1)",
+      "paint": "418"
+    },
+    {
+      "name": "Doppler (Phase 2)",
+      "paint": "419"
+    },
+    {
+      "name": "Doppler (Phase 3)",
+      "paint": "420"
+    },
+    {
+      "name": "Doppler (Phase 4)",
+      "paint": "421"
+    },
+    {
+      "name": "Lore",
+      "paint": "558"
+    },
+    {
+      "name": "Black Laminate",
+      "paint": "563"
+    },
+    {
+      "name": "Gamma Doppler (Emerald)",
+      "paint": "568"
+    },
+    {
+      "name": "Gamma Doppler (Phase 1)",
+      "paint": "569"
+    },
+    {
+      "name": "Gamma Doppler (Phase 2)",
+      "paint": "570"
+    },
+    {
+      "name": "Gamma Doppler (Phase 3)",
+      "paint": "571"
+    },
+    {
+      "name": "Gamma Doppler (Phase 4)",
+      "paint": "572"
+    },
+    {
+      "name": "Autotronic",
+      "paint": "573"
+    },
+    {
+      "name": "Bright Water",
+      "paint": "578"
+    },
+    {
+      "name": "Freehand",
+      "paint": "580"
+    }
+  ],
+  "503": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Forest DDPAT",
+      "paint": "5"
+    },
+    {
+      "name": "Crimson Web",
+      "paint": "12"
+    },
+    {
+      "name": "Fade",
+      "paint": "38"
+    },
+    {
+      "name": "Blue Steel",
+      "paint": "42"
+    },
+    {
+      "name": "Stained",
+      "paint": "43"
+    },
+    {
+      "name": "Case Hardened",
+      "paint": "44"
+    },
+    {
+      "name": "Slaughter",
+      "paint": "59"
+    },
+    {
+      "name": "Safari Mesh",
+      "paint": "72"
+    },
+    {
+      "name": "Boreal Forest",
+      "paint": "77"
+    },
+    {
+      "name": "Urban Masked",
+      "paint": "143"
+    },
+    {
+      "name": "Scorched",
+      "paint": "175"
+    },
+    {
+      "name": "Night Stripe",
+      "paint": "735"
+    }
+  ],
+  "505": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Forest DDPAT",
+      "paint": "5"
+    },
+    {
+      "name": "Crimson Web",
+      "paint": "12"
+    },
+    {
+      "name": "Fade",
+      "paint": "38"
+    },
+    {
+      "name": "Night",
+      "paint": "40"
+    },
+    {
+      "name": "Blue Steel",
+      "paint": "42"
+    },
+    {
+      "name": "Stained",
+      "paint": "43"
+    },
+    {
+      "name": "Case Hardened",
+      "paint": "44"
+    },
+    {
+      "name": "Slaughter",
+      "paint": "59"
+    },
+    {
+      "name": "Safari Mesh",
+      "paint": "72"
+    },
+    {
+      "name": "Boreal Forest",
+      "paint": "77"
+    },
+    {
+      "name": "Ultraviolet",
+      "paint": "98"
+    },
+    {
+      "name": "Urban Masked",
+      "paint": "143"
+    },
+    {
+      "name": "Scorched",
+      "paint": "175"
+    },
+    {
+      "name": "Tiger Tooth",
+      "paint": "409"
+    },
+    {
+      "name": "Damascus Steel",
+      "paint": "410"
+    },
+    {
+      "name": "Marble Fade",
+      "paint": "413"
+    },
+    {
+      "name": "Rust Coat",
+      "paint": "414"
+    },
+    {
+      "name": "Doppler (Ruby)",
+      "paint": "415"
+    },
+    {
+      "name": "Doppler (Sapphire)",
+      "paint": "416"
+    },
+    {
+      "name": "Doppler (Black Pearl)",
+      "paint": "417"
+    },
+    {
+      "name": "Doppler (Phase 1)",
+      "paint": "418"
+    },
+    {
+      "name": "Doppler (Phase 2)",
+      "paint": "419"
+    },
+    {
+      "name": "Doppler (Phase 3)",
+      "paint": "420"
+    },
+    {
+      "name": "Doppler (Phase 4)",
+      "paint": "421"
+    },
+    {
+      "name": "Lore",
+      "paint": "559"
+    },
+    {
+      "name": "Black Laminate",
+      "paint": "564"
+    },
+    {
+      "name": "Gamma Doppler (Emerald)",
+      "paint": "568"
+    },
+    {
+      "name": "Gamma Doppler (Phase 1)",
+      "paint": "569"
+    },
+    {
+      "name": "Gamma Doppler (Phase 2)",
+      "paint": "570"
+    },
+    {
+      "name": "Gamma Doppler (Phase 3)",
+      "paint": "571"
+    },
+    {
+      "name": "Gamma Doppler (Phase 4)",
+      "paint": "572"
+    },
+    {
+      "name": "Autotronic",
+      "paint": "574"
+    },
+    {
+      "name": "Bright Water",
+      "paint": "578"
+    },
+    {
+      "name": "Freehand",
+      "paint": "580"
+    }
+  ],
+  "506": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Forest DDPAT",
+      "paint": "5"
+    },
+    {
+      "name": "Crimson Web",
+      "paint": "12"
+    },
+    {
+      "name": "Fade",
+      "paint": "38"
+    },
+    {
+      "name": "Night",
+      "paint": "40"
+    },
+    {
+      "name": "Blue Steel",
+      "paint": "42"
+    },
+    {
+      "name": "Stained",
+      "paint": "43"
+    },
+    {
+      "name": "Case Hardened",
+      "paint": "44"
+    },
+    {
+      "name": "Slaughter",
+      "paint": "59"
+    },
+    {
+      "name": "Safari Mesh",
+      "paint": "72"
+    },
+    {
+      "name": "Boreal Forest",
+      "paint": "77"
+    },
+    {
+      "name": "Ultraviolet",
+      "paint": "98"
+    },
+    {
+      "name": "Urban Masked",
+      "paint": "143"
+    },
+    {
+      "name": "Scorched",
+      "paint": "175"
+    },
+    {
+      "name": "Tiger Tooth",
+      "paint": "409"
+    },
+    {
+      "name": "Damascus Steel",
+      "paint": "410"
+    },
+    {
+      "name": "Marble Fade",
+      "paint": "413"
+    },
+    {
+      "name": "Rust Coat",
+      "paint": "414"
+    },
+    {
+      "name": "Doppler (Ruby)",
+      "paint": "415"
+    },
+    {
+      "name": "Doppler (Sapphire)",
+      "paint": "416"
+    },
+    {
+      "name": "Doppler (Black Pearl)",
+      "paint": "417"
+    },
+    {
+      "name": "Doppler (Phase 1)",
+      "paint": "418"
+    },
+    {
+      "name": "Doppler (Phase 2)",
+      "paint": "419"
+    },
+    {
+      "name": "Doppler (Phase 3)",
+      "paint": "420"
+    },
+    {
+      "name": "Doppler (Phase 4)",
+      "paint": "421"
+    },
+    {
+      "name": "Lore",
+      "paint": "560"
+    },
+    {
+      "name": "Black Laminate",
+      "paint": "565"
+    },
+    {
+      "name": "Gamma Doppler (Emerald)",
+      "paint": "568"
+    },
+    {
+      "name": "Gamma Doppler (Phase 1)",
+      "paint": "569"
+    },
+    {
+      "name": "Gamma Doppler (Phase 2)",
+      "paint": "570"
+    },
+    {
+      "name": "Gamma Doppler (Phase 3)",
+      "paint": "571"
+    },
+    {
+      "name": "Gamma Doppler (Phase 4)",
+      "paint": "572"
+    },
+    {
+      "name": "Autotronic",
+      "paint": "575"
+    },
+    {
+      "name": "Bright Water",
+      "paint": "578"
+    },
+    {
+      "name": "Freehand",
+      "paint": "580"
+    }
+  ],
+  "507": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Forest DDPAT",
+      "paint": "5"
+    },
+    {
+      "name": "Crimson Web",
+      "paint": "12"
+    },
+    {
+      "name": "Fade",
+      "paint": "38"
+    },
+    {
+      "name": "Night",
+      "paint": "40"
+    },
+    {
+      "name": "Blue Steel",
+      "paint": "42"
+    },
+    {
+      "name": "Stained",
+      "paint": "43"
+    },
+    {
+      "name": "Case Hardened",
+      "paint": "44"
+    },
+    {
+      "name": "Slaughter",
+      "paint": "59"
+    },
+    {
+      "name": "Safari Mesh",
+      "paint": "72"
+    },
+    {
+      "name": "Boreal Forest",
+      "paint": "77"
+    },
+    {
+      "name": "Ultraviolet",
+      "paint": "98"
+    },
+    {
+      "name": "Urban Masked",
+      "paint": "143"
+    },
+    {
+      "name": "Scorched",
+      "paint": "175"
+    },
+    {
+      "name": "Tiger Tooth",
+      "paint": "409"
+    },
+    {
+      "name": "Damascus Steel",
+      "paint": "410"
+    },
+    {
+      "name": "Marble Fade",
+      "paint": "413"
+    },
+    {
+      "name": "Rust Coat",
+      "paint": "414"
+    },
+    {
+      "name": "Doppler (Ruby)",
+      "paint": "415"
+    },
+    {
+      "name": "Doppler (Sapphire)",
+      "paint": "416"
+    },
+    {
+      "name": "Doppler (Black Pearl)",
+      "paint": "417"
+    },
+    {
+      "name": "Doppler (Phase 1)",
+      "paint": "418"
+    },
+    {
+      "name": "Doppler (Phase 2)",
+      "paint": "419"
+    },
+    {
+      "name": "Doppler (Phase 3)",
+      "paint": "420"
+    },
+    {
+      "name": "Doppler (Phase 4)",
+      "paint": "421"
+    },
+    {
+      "name": "Lore",
+      "paint": "561"
+    },
+    {
+      "name": "Black Laminate",
+      "paint": "566"
+    },
+    {
+      "name": "Gamma Doppler (Emerald)",
+      "paint": "568"
+    },
+    {
+      "name": "Gamma Doppler (Phase 1)",
+      "paint": "569"
+    },
+    {
+      "name": "Gamma Doppler (Phase 2)",
+      "paint": "570"
+    },
+    {
+      "name": "Gamma Doppler (Phase 3)",
+      "paint": "571"
+    },
+    {
+      "name": "Gamma Doppler (Phase 4)",
+      "paint": "572"
+    },
+    {
+      "name": "Autotronic",
+      "paint": "576"
+    },
+    {
+      "name": "Bright Water",
+      "paint": "578"
+    },
+    {
+      "name": "Freehand",
+      "paint": "582"
+    }
+  ],
+  "508": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Forest DDPAT",
+      "paint": "5"
+    },
+    {
+      "name": "Crimson Web",
+      "paint": "12"
+    },
+    {
+      "name": "Fade",
+      "paint": "38"
+    },
+    {
+      "name": "Night",
+      "paint": "40"
+    },
+    {
+      "name": "Blue Steel",
+      "paint": "42"
+    },
+    {
+      "name": "Stained",
+      "paint": "43"
+    },
+    {
+      "name": "Case Hardened",
+      "paint": "44"
+    },
+    {
+      "name": "Slaughter",
+      "paint": "59"
+    },
+    {
+      "name": "Safari Mesh",
+      "paint": "72"
+    },
+    {
+      "name": "Boreal Forest",
+      "paint": "77"
+    },
+    {
+      "name": "Ultraviolet",
+      "paint": "98"
+    },
+    {
+      "name": "Urban Masked",
+      "paint": "143"
+    },
+    {
+      "name": "Scorched",
+      "paint": "175"
+    },
+    {
+      "name": "Tiger Tooth",
+      "paint": "409"
+    },
+    {
+      "name": "Damascus Steel",
+      "paint": "411"
+    },
+    {
+      "name": "Marble Fade",
+      "paint": "413"
+    },
+    {
+      "name": "Rust Coat",
+      "paint": "414"
+    },
+    {
+      "name": "Doppler (Ruby)",
+      "paint": "415"
+    },
+    {
+      "name": "Doppler (Sapphire)",
+      "paint": "416"
+    },
+    {
+      "name": "Doppler (Black Pearl)",
+      "paint": "417"
+    },
+    {
+      "name": "Doppler (Phase 1)",
+      "paint": "418"
+    },
+    {
+      "name": "Doppler (Phase 2)",
+      "paint": "419"
+    },
+    {
+      "name": "Doppler (Phase 3)",
+      "paint": "420"
+    },
+    {
+      "name": "Doppler (Phase 4)",
+      "paint": "421"
+    },
+    {
+      "name": "Lore",
+      "paint": "562"
+    },
+    {
+      "name": "Black Laminate",
+      "paint": "567"
+    },
+    {
+      "name": "Gamma Doppler (Emerald)",
+      "paint": "568"
+    },
+    {
+      "name": "Gamma Doppler (Phase 1)",
+      "paint": "569"
+    },
+    {
+      "name": "Gamma Doppler (Phase 2)",
+      "paint": "570"
+    },
+    {
+      "name": "Gamma Doppler (Phase 3)",
+      "paint": "571"
+    },
+    {
+      "name": "Gamma Doppler (Phase 4)",
+      "paint": "572"
+    },
+    {
+      "name": "Autotronic",
+      "paint": "577"
+    },
+    {
+      "name": "Bright Water",
+      "paint": "579"
+    },
+    {
+      "name": "Freehand",
+      "paint": "581"
+    }
+  ],
+  "509": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Forest DDPAT",
+      "paint": "5"
+    },
+    {
+      "name": "Crimson Web",
+      "paint": "12"
+    },
+    {
+      "name": "Fade",
+      "paint": "38"
+    },
+    {
+      "name": "Night",
+      "paint": "40"
+    },
+    {
+      "name": "Blue Steel",
+      "paint": "42"
+    },
+    {
+      "name": "Stained",
+      "paint": "43"
+    },
+    {
+      "name": "Case Hardened",
+      "paint": "44"
+    },
+    {
+      "name": "Slaughter",
+      "paint": "59"
+    },
+    {
+      "name": "Safari Mesh",
+      "paint": "72"
+    },
+    {
+      "name": "Boreal Forest",
+      "paint": "77"
+    },
+    {
+      "name": "Urban Masked",
+      "paint": "143"
+    },
+    {
+      "name": "Scorched",
+      "paint": "175"
+    },
+    {
+      "name": "Tiger Tooth",
+      "paint": "409"
+    },
+    {
+      "name": "Damascus Steel",
+      "paint": "411"
+    },
+    {
+      "name": "Marble Fade",
+      "paint": "413"
+    },
+    {
+      "name": "Rust Coat",
+      "paint": "414"
+    },
+    {
+      "name": "Doppler (Ruby)",
+      "paint": "415"
+    },
+    {
+      "name": "Doppler (Sapphire)",
+      "paint": "416"
+    },
+    {
+      "name": "Doppler (Black Pearl)",
+      "paint": "417"
+    },
+    {
+      "name": "Doppler (Phase 1)",
+      "paint": "418"
+    },
+    {
+      "name": "Doppler (Phase 2)",
+      "paint": "419"
+    },
+    {
+      "name": "Doppler (Phase 3)",
+      "paint": "420"
+    },
+    {
+      "name": "Doppler (Phase 4)",
+      "paint": "421"
+    },
+    {
+      "name": "Gamma Doppler (Emerald)",
+      "paint": "568"
+    },
+    {
+      "name": "Gamma Doppler (Phase 1)",
+      "paint": "569"
+    },
+    {
+      "name": "Gamma Doppler (Phase 2)",
+      "paint": "570"
+    },
+    {
+      "name": "Gamma Doppler (Phase 3)",
+      "paint": "571"
+    },
+    {
+      "name": "Gamma Doppler (Phase 4)",
+      "paint": "572"
+    },
+    {
+      "name": "Bright Water",
+      "paint": "579"
+    },
+    {
+      "name": "Freehand",
+      "paint": "581"
+    },
+    {
+      "name": "Ultraviolet",
+      "paint": "620"
+    },
+    {
+      "name": "Lore",
+      "paint": "1107"
+    },
+    {
+      "name": "Black Laminate",
+      "paint": "1112"
+    },
+    {
+      "name": "Autotronic",
+      "paint": "1117"
+    }
+  ],
+  "512": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Forest DDPAT",
+      "paint": "5"
+    },
+    {
+      "name": "Crimson Web",
+      "paint": "12"
+    },
+    {
+      "name": "Fade",
+      "paint": "38"
+    },
+    {
+      "name": "Night",
+      "paint": "40"
+    },
+    {
+      "name": "Blue Steel",
+      "paint": "42"
+    },
+    {
+      "name": "Stained",
+      "paint": "43"
+    },
+    {
+      "name": "Case Hardened",
+      "paint": "44"
+    },
+    {
+      "name": "Slaughter",
+      "paint": "59"
+    },
+    {
+      "name": "Safari Mesh",
+      "paint": "72"
+    },
+    {
+      "name": "Boreal Forest",
+      "paint": "77"
+    },
+    {
+      "name": "Urban Masked",
+      "paint": "143"
+    },
+    {
+      "name": "Scorched",
+      "paint": "175"
+    },
+    {
+      "name": "Tiger Tooth",
+      "paint": "409"
+    },
+    {
+      "name": "Damascus Steel",
+      "paint": "411"
+    },
+    {
+      "name": "Marble Fade",
+      "paint": "413"
+    },
+    {
+      "name": "Rust Coat",
+      "paint": "414"
+    },
+    {
+      "name": "Doppler (Ruby)",
+      "paint": "415"
+    },
+    {
+      "name": "Doppler (Sapphire)",
+      "paint": "416"
+    },
+    {
+      "name": "Doppler (Black Pearl)",
+      "paint": "417"
+    },
+    {
+      "name": "Doppler (Phase 1)",
+      "paint": "418"
+    },
+    {
+      "name": "Doppler (Phase 2)",
+      "paint": "419"
+    },
+    {
+      "name": "Doppler (Phase 3)",
+      "paint": "420"
+    },
+    {
+      "name": "Doppler (Phase 4)",
+      "paint": "421"
+    },
+    {
+      "name": "Gamma Doppler (Emerald)",
+      "paint": "568"
+    },
+    {
+      "name": "Gamma Doppler (Phase 1)",
+      "paint": "569"
+    },
+    {
+      "name": "Gamma Doppler (Phase 2)",
+      "paint": "570"
+    },
+    {
+      "name": "Gamma Doppler (Phase 3)",
+      "paint": "571"
+    },
+    {
+      "name": "Gamma Doppler (Phase 4)",
+      "paint": "572"
+    },
+    {
+      "name": "Bright Water",
+      "paint": "579"
+    },
+    {
+      "name": "Freehand",
+      "paint": "581"
+    },
+    {
+      "name": "Ultraviolet",
+      "paint": "621"
+    },
+    {
+      "name": "Lore",
+      "paint": "1106"
+    },
+    {
+      "name": "Black Laminate",
+      "paint": "1111"
+    },
+    {
+      "name": "Autotronic",
+      "paint": "1116"
+    }
+  ],
+  "514": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Forest DDPAT",
+      "paint": "5"
+    },
+    {
+      "name": "Crimson Web",
+      "paint": "12"
+    },
+    {
+      "name": "Fade",
+      "paint": "38"
+    },
+    {
+      "name": "Night",
+      "paint": "40"
+    },
+    {
+      "name": "Blue Steel",
+      "paint": "42"
+    },
+    {
+      "name": "Stained",
+      "paint": "43"
+    },
+    {
+      "name": "Case Hardened",
+      "paint": "44"
+    },
+    {
+      "name": "Slaughter",
+      "paint": "59"
+    },
+    {
+      "name": "Safari Mesh",
+      "paint": "72"
+    },
+    {
+      "name": "Boreal Forest",
+      "paint": "77"
+    },
+    {
+      "name": "Ultraviolet",
+      "paint": "98"
+    },
+    {
+      "name": "Urban Masked",
+      "paint": "143"
+    },
+    {
+      "name": "Scorched",
+      "paint": "175"
+    },
+    {
+      "name": "Tiger Tooth",
+      "paint": "409"
+    },
+    {
+      "name": "Damascus Steel",
+      "paint": "411"
+    },
+    {
+      "name": "Marble Fade",
+      "paint": "413"
+    },
+    {
+      "name": "Rust Coat",
+      "paint": "414"
+    },
+    {
+      "name": "Doppler (Ruby)",
+      "paint": "415"
+    },
+    {
+      "name": "Doppler (Sapphire)",
+      "paint": "416"
+    },
+    {
+      "name": "Doppler (Black Pearl)",
+      "paint": "417"
+    },
+    {
+      "name": "Doppler (Phase 1)",
+      "paint": "418"
+    },
+    {
+      "name": "Doppler (Phase 2)",
+      "paint": "419"
+    },
+    {
+      "name": "Doppler (Phase 3)",
+      "paint": "420"
+    },
+    {
+      "name": "Doppler (Phase 4)",
+      "paint": "421"
+    },
+    {
+      "name": "Gamma Doppler (Emerald)",
+      "paint": "568"
+    },
+    {
+      "name": "Gamma Doppler (Phase 1)",
+      "paint": "569"
+    },
+    {
+      "name": "Gamma Doppler (Phase 2)",
+      "paint": "570"
+    },
+    {
+      "name": "Gamma Doppler (Phase 3)",
+      "paint": "571"
+    },
+    {
+      "name": "Gamma Doppler (Phase 4)",
+      "paint": "572"
+    },
+    {
+      "name": "Bright Water",
+      "paint": "579"
+    },
+    {
+      "name": "Freehand",
+      "paint": "581"
+    },
+    {
+      "name": "Lore",
+      "paint": "1104"
+    },
+    {
+      "name": "Black Laminate",
+      "paint": "1109"
+    },
+    {
+      "name": "Autotronic",
+      "paint": "1114"
+    }
+  ],
+  "515": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Forest DDPAT",
+      "paint": "5"
+    },
+    {
+      "name": "Crimson Web",
+      "paint": "12"
+    },
+    {
+      "name": "Fade",
+      "paint": "38"
+    },
+    {
+      "name": "Night",
+      "paint": "40"
+    },
+    {
+      "name": "Blue Steel",
+      "paint": "42"
+    },
+    {
+      "name": "Stained",
+      "paint": "43"
+    },
+    {
+      "name": "Case Hardened",
+      "paint": "44"
+    },
+    {
+      "name": "Slaughter",
+      "paint": "59"
+    },
+    {
+      "name": "Safari Mesh",
+      "paint": "72"
+    },
+    {
+      "name": "Boreal Forest",
+      "paint": "77"
+    },
+    {
+      "name": "Ultraviolet",
+      "paint": "98"
+    },
+    {
+      "name": "Urban Masked",
+      "paint": "143"
+    },
+    {
+      "name": "Scorched",
+      "paint": "175"
+    },
+    {
+      "name": "Tiger Tooth",
+      "paint": "409"
+    },
+    {
+      "name": "Damascus Steel",
+      "paint": "411"
+    },
+    {
+      "name": "Marble Fade",
+      "paint": "413"
+    },
+    {
+      "name": "Rust Coat",
+      "paint": "414"
+    },
+    {
+      "name": "Doppler (Ruby)",
+      "paint": "415"
+    },
+    {
+      "name": "Doppler (Phase 1)",
+      "paint": "418"
+    },
+    {
+      "name": "Doppler (Phase 3)",
+      "paint": "420"
+    },
+    {
+      "name": "Doppler (Phase 4)",
+      "paint": "421"
+    },
+    {
+      "name": "Gamma Doppler (Emerald)",
+      "paint": "568"
+    },
+    {
+      "name": "Gamma Doppler (Phase 1)",
+      "paint": "569"
+    },
+    {
+      "name": "Gamma Doppler (Phase 2)",
+      "paint": "570"
+    },
+    {
+      "name": "Gamma Doppler (Phase 3)",
+      "paint": "571"
+    },
+    {
+      "name": "Gamma Doppler (Phase 4)",
+      "paint": "572"
+    },
+    {
+      "name": "Bright Water",
+      "paint": "579"
+    },
+    {
+      "name": "Freehand",
+      "paint": "581"
+    },
+    {
+      "name": "Doppler (Black Pearl)",
+      "paint": "617"
+    },
+    {
+      "name": "Doppler (Phase 2)",
+      "paint": "618"
+    },
+    {
+      "name": "Doppler (Sapphire)",
+      "paint": "619"
+    },
+    {
+      "name": "Lore",
+      "paint": "1105"
+    },
+    {
+      "name": "Black Laminate",
+      "paint": "1110"
+    },
+    {
+      "name": "Autotronic",
+      "paint": "1115"
+    }
+  ],
+  "516": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Forest DDPAT",
+      "paint": "5"
+    },
+    {
+      "name": "Crimson Web",
+      "paint": "12"
+    },
+    {
+      "name": "Fade",
+      "paint": "38"
+    },
+    {
+      "name": "Night",
+      "paint": "40"
+    },
+    {
+      "name": "Blue Steel",
+      "paint": "42"
+    },
+    {
+      "name": "Stained",
+      "paint": "43"
+    },
+    {
+      "name": "Case Hardened",
+      "paint": "44"
+    },
+    {
+      "name": "Slaughter",
+      "paint": "59"
+    },
+    {
+      "name": "Safari Mesh",
+      "paint": "72"
+    },
+    {
+      "name": "Boreal Forest",
+      "paint": "77"
+    },
+    {
+      "name": "Ultraviolet",
+      "paint": "98"
+    },
+    {
+      "name": "Urban Masked",
+      "paint": "143"
+    },
+    {
+      "name": "Scorched",
+      "paint": "175"
+    },
+    {
+      "name": "Tiger Tooth",
+      "paint": "409"
+    },
+    {
+      "name": "Damascus Steel",
+      "paint": "411"
+    },
+    {
+      "name": "Marble Fade",
+      "paint": "413"
+    },
+    {
+      "name": "Rust Coat",
+      "paint": "414"
+    },
+    {
+      "name": "Doppler (Ruby)",
+      "paint": "415"
+    },
+    {
+      "name": "Doppler (Phase 1)",
+      "paint": "418"
+    },
+    {
+      "name": "Doppler (Phase 3)",
+      "paint": "420"
+    },
+    {
+      "name": "Doppler (Phase 4)",
+      "paint": "421"
+    },
+    {
+      "name": "Gamma Doppler (Emerald)",
+      "paint": "568"
+    },
+    {
+      "name": "Gamma Doppler (Phase 1)",
+      "paint": "569"
+    },
+    {
+      "name": "Gamma Doppler (Phase 2)",
+      "paint": "570"
+    },
+    {
+      "name": "Gamma Doppler (Phase 3)",
+      "paint": "571"
+    },
+    {
+      "name": "Gamma Doppler (Phase 4)",
+      "paint": "572"
+    },
+    {
+      "name": "Bright Water",
+      "paint": "579"
+    },
+    {
+      "name": "Freehand",
+      "paint": "581"
+    },
+    {
+      "name": "Doppler (Black Pearl)",
+      "paint": "617"
+    },
+    {
+      "name": "Doppler (Phase 2)",
+      "paint": "618"
+    },
+    {
+      "name": "Doppler (Sapphire)",
+      "paint": "619"
+    },
+    {
+      "name": "Lore",
+      "paint": "1108"
+    },
+    {
+      "name": "Black Laminate",
+      "paint": "1113"
+    },
+    {
+      "name": "Autotronic",
+      "paint": "1118"
+    }
+  ],
+  "517": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Forest DDPAT",
+      "paint": "5"
+    },
+    {
+      "name": "Crimson Web",
+      "paint": "12"
+    },
+    {
+      "name": "Fade",
+      "paint": "38"
+    },
+    {
+      "name": "Blue Steel",
+      "paint": "42"
+    },
+    {
+      "name": "Stained",
+      "paint": "43"
+    },
+    {
+      "name": "Case Hardened",
+      "paint": "44"
+    },
+    {
+      "name": "Slaughter",
+      "paint": "59"
+    },
+    {
+      "name": "Safari Mesh",
+      "paint": "72"
+    },
+    {
+      "name": "Boreal Forest",
+      "paint": "77"
+    },
+    {
+      "name": "Urban Masked",
+      "paint": "143"
+    },
+    {
+      "name": "Scorched",
+      "paint": "175"
+    },
+    {
+      "name": "Night Stripe",
+      "paint": "735"
+    }
+  ],
+  "518": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Forest DDPAT",
+      "paint": "5"
+    },
+    {
+      "name": "Crimson Web",
+      "paint": "12"
+    },
+    {
+      "name": "Fade",
+      "paint": "38"
+    },
+    {
+      "name": "Blue Steel",
+      "paint": "42"
+    },
+    {
+      "name": "Stained",
+      "paint": "43"
+    },
+    {
+      "name": "Case Hardened",
+      "paint": "44"
+    },
+    {
+      "name": "Slaughter",
+      "paint": "59"
+    },
+    {
+      "name": "Safari Mesh",
+      "paint": "72"
+    },
+    {
+      "name": "Boreal Forest",
+      "paint": "77"
+    },
+    {
+      "name": "Urban Masked",
+      "paint": "143"
+    },
+    {
+      "name": "Scorched",
+      "paint": "175"
+    },
+    {
+      "name": "Night Stripe",
+      "paint": "735"
+    }
+  ],
+  "519": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Forest DDPAT",
+      "paint": "5"
+    },
+    {
+      "name": "Crimson Web",
+      "paint": "12"
+    },
+    {
+      "name": "Fade",
+      "paint": "38"
+    },
+    {
+      "name": "Blue Steel",
+      "paint": "42"
+    },
+    {
+      "name": "Stained",
+      "paint": "43"
+    },
+    {
+      "name": "Case Hardened",
+      "paint": "44"
+    },
+    {
+      "name": "Slaughter",
+      "paint": "59"
+    },
+    {
+      "name": "Safari Mesh",
+      "paint": "72"
+    },
+    {
+      "name": "Boreal Forest",
+      "paint": "77"
+    },
+    {
+      "name": "Ultraviolet",
+      "paint": "98"
+    },
+    {
+      "name": "Urban Masked",
+      "paint": "143"
+    },
+    {
+      "name": "Scorched",
+      "paint": "175"
+    },
+    {
+      "name": "Tiger Tooth",
+      "paint": "409"
+    },
+    {
+      "name": "Marble Fade",
+      "paint": "413"
+    },
+    {
+      "name": "Rust Coat",
+      "paint": "414"
+    },
+    {
+      "name": "Doppler (Ruby)",
+      "paint": "415"
+    },
+    {
+      "name": "Doppler (Sapphire)",
+      "paint": "416"
+    },
+    {
+      "name": "Doppler (Black Pearl)",
+      "paint": "417"
+    },
+    {
+      "name": "Doppler (Phase 1)",
+      "paint": "418"
+    },
+    {
+      "name": "Doppler (Phase 2)",
+      "paint": "419"
+    },
+    {
+      "name": "Doppler (Phase 3)",
+      "paint": "420"
+    },
+    {
+      "name": "Doppler (Phase 4)",
+      "paint": "421"
+    },
+    {
+      "name": "Night Stripe",
+      "paint": "735"
+    },
+    {
+      "name": "Damascus Steel",
+      "paint": "857"
+    }
+  ],
+  "520": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Forest DDPAT",
+      "paint": "5"
+    },
+    {
+      "name": "Crimson Web",
+      "paint": "12"
+    },
+    {
+      "name": "Fade",
+      "paint": "38"
+    },
+    {
+      "name": "Blue Steel",
+      "paint": "42"
+    },
+    {
+      "name": "Stained",
+      "paint": "43"
+    },
+    {
+      "name": "Case Hardened",
+      "paint": "44"
+    },
+    {
+      "name": "Slaughter",
+      "paint": "59"
+    },
+    {
+      "name": "Safari Mesh",
+      "paint": "72"
+    },
+    {
+      "name": "Boreal Forest",
+      "paint": "77"
+    },
+    {
+      "name": "Ultraviolet",
+      "paint": "98"
+    },
+    {
+      "name": "Urban Masked",
+      "paint": "143"
+    },
+    {
+      "name": "Scorched",
+      "paint": "175"
+    },
+    {
+      "name": "Tiger Tooth",
+      "paint": "409"
+    },
+    {
+      "name": "Marble Fade",
+      "paint": "413"
+    },
+    {
+      "name": "Rust Coat",
+      "paint": "414"
+    },
+    {
+      "name": "Doppler (Ruby)",
+      "paint": "415"
+    },
+    {
+      "name": "Doppler (Sapphire)",
+      "paint": "416"
+    },
+    {
+      "name": "Doppler (Black Pearl)",
+      "paint": "417"
+    },
+    {
+      "name": "Doppler (Phase 1)",
+      "paint": "418"
+    },
+    {
+      "name": "Doppler (Phase 2)",
+      "paint": "419"
+    },
+    {
+      "name": "Doppler (Phase 3)",
+      "paint": "420"
+    },
+    {
+      "name": "Doppler (Phase 4)",
+      "paint": "421"
+    },
+    {
+      "name": "Night Stripe",
+      "paint": "735"
+    },
+    {
+      "name": "Damascus Steel",
+      "paint": "857"
+    }
+  ],
+  "521": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Forest DDPAT",
+      "paint": "5"
+    },
+    {
+      "name": "Crimson Web",
+      "paint": "12"
+    },
+    {
+      "name": "Fade",
+      "paint": "38"
+    },
+    {
+      "name": "Blue Steel",
+      "paint": "42"
+    },
+    {
+      "name": "Stained",
+      "paint": "43"
+    },
+    {
+      "name": "Case Hardened",
+      "paint": "44"
+    },
+    {
+      "name": "Slaughter",
+      "paint": "59"
+    },
+    {
+      "name": "Safari Mesh",
+      "paint": "72"
+    },
+    {
+      "name": "Boreal Forest",
+      "paint": "77"
+    },
+    {
+      "name": "Urban Masked",
+      "paint": "143"
+    },
+    {
+      "name": "Scorched",
+      "paint": "175"
+    },
+    {
+      "name": "Night Stripe",
+      "paint": "735"
+    }
+  ],
+  "522": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Forest DDPAT",
+      "paint": "5"
+    },
+    {
+      "name": "Crimson Web",
+      "paint": "12"
+    },
+    {
+      "name": "Fade",
+      "paint": "38"
+    },
+    {
+      "name": "Blue Steel",
+      "paint": "42"
+    },
+    {
+      "name": "Stained",
+      "paint": "43"
+    },
+    {
+      "name": "Case Hardened",
+      "paint": "44"
+    },
+    {
+      "name": "Slaughter",
+      "paint": "59"
+    },
+    {
+      "name": "Safari Mesh",
+      "paint": "72"
+    },
+    {
+      "name": "Boreal Forest",
+      "paint": "77"
+    },
+    {
+      "name": "Ultraviolet",
+      "paint": "98"
+    },
+    {
+      "name": "Urban Masked",
+      "paint": "143"
+    },
+    {
+      "name": "Scorched",
+      "paint": "175"
+    },
+    {
+      "name": "Tiger Tooth",
+      "paint": "409"
+    },
+    {
+      "name": "Marble Fade",
+      "paint": "413"
+    },
+    {
+      "name": "Rust Coat",
+      "paint": "414"
+    },
+    {
+      "name": "Doppler (Ruby)",
+      "paint": "415"
+    },
+    {
+      "name": "Doppler (Sapphire)",
+      "paint": "416"
+    },
+    {
+      "name": "Doppler (Black Pearl)",
+      "paint": "417"
+    },
+    {
+      "name": "Doppler (Phase 1)",
+      "paint": "418"
+    },
+    {
+      "name": "Doppler (Phase 2)",
+      "paint": "419"
+    },
+    {
+      "name": "Doppler (Phase 3)",
+      "paint": "420"
+    },
+    {
+      "name": "Doppler (Phase 4)",
+      "paint": "421"
+    },
+    {
+      "name": "Night Stripe",
+      "paint": "735"
+    },
+    {
+      "name": "Damascus Steel",
+      "paint": "857"
+    }
+  ],
+  "523": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Forest DDPAT",
+      "paint": "5"
+    },
+    {
+      "name": "Crimson Web",
+      "paint": "12"
+    },
+    {
+      "name": "Fade",
+      "paint": "38"
+    },
+    {
+      "name": "Blue Steel",
+      "paint": "42"
+    },
+    {
+      "name": "Stained",
+      "paint": "43"
+    },
+    {
+      "name": "Case Hardened",
+      "paint": "44"
+    },
+    {
+      "name": "Slaughter",
+      "paint": "59"
+    },
+    {
+      "name": "Safari Mesh",
+      "paint": "72"
+    },
+    {
+      "name": "Boreal Forest",
+      "paint": "77"
+    },
+    {
+      "name": "Ultraviolet",
+      "paint": "98"
+    },
+    {
+      "name": "Urban Masked",
+      "paint": "143"
+    },
+    {
+      "name": "Scorched",
+      "paint": "175"
+    },
+    {
+      "name": "Tiger Tooth",
+      "paint": "409"
+    },
+    {
+      "name": "Rust Coat",
+      "paint": "414"
+    },
+    {
+      "name": "Doppler (Ruby)",
+      "paint": "415"
+    },
+    {
+      "name": "Doppler (Sapphire)",
+      "paint": "416"
+    },
+    {
+      "name": "Doppler (Black Pearl)",
+      "paint": "417"
+    },
+    {
+      "name": "Night Stripe",
+      "paint": "735"
+    },
+    {
+      "name": "Doppler (Phase 1)",
+      "paint": "852"
+    },
+    {
+      "name": "Doppler (Phase 2)",
+      "paint": "853"
+    },
+    {
+      "name": "Doppler (Phase 3)",
+      "paint": "854"
+    },
+    {
+      "name": "Doppler (Phase 4)",
+      "paint": "855"
+    },
+    {
+      "name": "Marble Fade",
+      "paint": "856"
+    },
+    {
+      "name": "Damascus Steel",
+      "paint": "858"
+    }
+  ],
+  "525": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Forest DDPAT",
+      "paint": "5"
+    },
+    {
+      "name": "Crimson Web",
+      "paint": "12"
+    },
+    {
+      "name": "Fade",
+      "paint": "38"
+    },
+    {
+      "name": "Blue Steel",
+      "paint": "42"
+    },
+    {
+      "name": "Stained",
+      "paint": "43"
+    },
+    {
+      "name": "Case Hardened",
+      "paint": "44"
+    },
+    {
+      "name": "Slaughter",
+      "paint": "59"
+    },
+    {
+      "name": "Safari Mesh",
+      "paint": "72"
+    },
+    {
+      "name": "Boreal Forest",
+      "paint": "77"
+    },
+    {
+      "name": "Urban Masked",
+      "paint": "143"
+    },
+    {
+      "name": "Scorched",
+      "paint": "175"
+    },
+    {
+      "name": "Night Stripe",
+      "paint": "735"
+    }
+  ],
+  "526": [
+    {
+      "name": "Default",
+      "paint": 0
+    },
+    {
+      "name": "Forest DDPAT",
+      "paint": "5"
+    },
+    {
+      "name": "Crimson Web",
+      "paint": "12"
+    },
+    {
+      "name": "Fade",
+      "paint": "38"
+    },
+    {
+      "name": "Blue Steel",
+      "paint": "42"
+    },
+    {
+      "name": "Stained",
+      "paint": "43"
+    },
+    {
+      "name": "Case Hardened",
+      "paint": "44"
+    },
+    {
+      "name": "Slaughter",
+      "paint": "59"
+    },
+    {
+      "name": "Safari Mesh",
+      "paint": "72"
+    },
+    {
+      "name": "Boreal Forest",
+      "paint": "77"
+    },
+    {
+      "name": "Urban Masked",
+      "paint": "143"
+    },
+    {
+      "name": "Scorched",
+      "paint": "175"
+    },
+    {
+      "name": "Night Stripe",
+      "paint": "735"
+    }
+  ]
+}

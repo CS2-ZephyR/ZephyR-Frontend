@@ -1,0 +1,292 @@
+{
+  "ct": {
+    "Default": [
+      {
+        "name": "기본 요원",
+        "model": ""
+      }
+    ],
+    "SEAL Team 6": [
+      {
+        "name": "'Blueberries' Buckshot",
+        "model": "ctm_st6/ctm_st6_variantj"
+      },
+      {
+        "name": "Cmdr. Davida 'Goggles' Fernandez",
+        "model": "ctm_diver/ctm_diver_varianta"
+      },
+      {
+        "name": "Cmdr. Frank 'Wet Sox' Baroud",
+        "model": "ctm_diver/ctm_diver_variantb"
+      },
+      {
+        "name": "Lieutenant Rex Krikey",
+        "model": "ctm_diver/ctm_diver_variantc"
+      },
+      {
+        "name": "Seal Team 6 Soldier",
+        "model": "ctm_st6/ctm_st6_variante"
+      },
+      {
+        "name": "Buckshot",
+        "model": "ctm_st6/ctm_st6_variantg"
+      },
+      {
+        "name": "Lt. Commander Ricksaw",
+        "model": "ctm_st6/ctm_st6_varianti"
+      }
+    ],
+    "TACP": [
+      {
+        "name": "'Two Times' McCoy",
+        "model": "ctm_st6/ctm_st6_variantl"
+      },
+      {
+        "name": "'Two Times' McCoy",
+        "model": "ctm_st6/ctm_st6_variantm"
+      }
+    ],
+    "SWAT": [
+      {
+        "name": "Cmdr. Mae 'Dead Cold' Jamison",
+        "model": "ctm_swat/ctm_swat_variante"
+      },
+      {
+        "name": "1st Lieutenant Farlow",
+        "model": "ctm_swat/ctm_swat_variantf"
+      },
+      {
+        "name": "John 'Van Healen' Kask",
+        "model": "ctm_swat/ctm_swat_variantg"
+      },
+      {
+        "name": "Bio-Haz Specialist",
+        "model": "ctm_swat/ctm_swat_varianth"
+      },
+      {
+        "name": "Sergeant Bombson",
+        "model": "ctm_swat/ctm_swat_varianti"
+      },
+      {
+        "name": "Chem-Haz Specialist",
+        "model": "ctm_swat/ctm_swat_variantj"
+      },
+      {
+        "name": "Lieutenant 'Tree Hugger' Farlow",
+        "model": "ctm_swat/ctm_swat_variantk"
+      }
+    ],
+    "Gendarmerie Nationale": [
+      {
+        "name": "Sous-Lieutenant Medic",
+        "model": "ctm_gendarmerie/ctm_gendarmerie_varianta"
+      },
+      {
+        "name": "Chem-Haz Capitaine",
+        "model": "ctm_gendarmerie/ctm_gendarmerie_variantb"
+      },
+      {
+        "name": "Chef d'Escadron Rouchard",
+        "model": "ctm_gendarmerie/ctm_gendarmerie_variantc"
+      },
+      {
+        "name": "Aspirant",
+        "model": "ctm_gendarmerie/ctm_gendarmerie_variantd"
+      },
+      {
+        "name": "Officer Jacques Beltram",
+        "model": "ctm_gendarmerie/ctm_gendarmerie_variante"
+      }
+    ],
+    "FBI": [
+      {
+        "name": "Operator",
+        "model": "ctm_fbi/ctm_fbi_variantf"
+      },
+      {
+        "name": "Markus Delrow",
+        "model": "ctm_fbi/ctm_fbi_variantg"
+      },
+      {
+        "name": "Michael Syfers ",
+        "model": "ctm_fbi/ctm_fbi_varianth"
+      },
+      {
+        "name": "Special Agent Ava",
+        "model": "ctm_fbi/ctm_fbi_variantb"
+      }
+    ],
+    "KSK": [
+      {
+        "name": "3rd Commando Company",
+        "model": "ctm_st6/ctm_st6_variantk"
+      }
+    ],
+    "Brazilian 1st Battalion": [
+      {
+        "name": "Primeiro Tenente",
+        "model": "ctm_st6/ctm_st6_variantn"
+      }
+    ],
+    "SAS": [
+      {
+        "name": "B Squadron Officer",
+        "model": "ctm_sas/ctm_sas_variantf"
+      },
+      {
+        "name": "D Squadron Officer",
+        "model": "ctm_sas/ctm_sas_variantg"
+      }
+    ]
+  },
+  "t": {
+    "Default": [
+      {
+        "name": "기본 요원",
+        "model": ""
+      }
+    ],
+    "Sabre": [
+      {
+        "name": "Rezan the Redshirt",
+        "model": "tm_balkan/tm_balkan_variantk"
+      },
+      {
+        "name": "Dragomir",
+        "model": "tm_balkan/tm_balkan_variantf"
+      },
+      {
+        "name": "Maximus",
+        "model": "tm_balkan/tm_balkan_varianti"
+      },
+      {
+        "name": "Rezan The Ready",
+        "model": "tm_balkan/tm_balkan_variantg"
+      },
+      {
+        "name": "Blackwolf",
+        "model": "tm_balkan/tm_balkan_variantj"
+      },
+      {
+        "name": "'The Doctor' Romanov",
+        "model": "tm_balkan/tm_balkan_varianth"
+      },
+      {
+        "name": "Dragomir",
+        "model": "tm_balkan/tm_balkan_variantl"
+      }
+    ],
+    "Professional": [
+      {
+        "name": "Sir Bloody Miami Darryl",
+        "model": "tm_professional/tm_professional_varf"
+      },
+      {
+        "name": "Safecracker Voltzmann",
+        "model": "tm_professional/tm_professional_varg"
+      },
+      {
+        "name": "Little Kev",
+        "model": "tm_professional/tm_professional_varh"
+      },
+      {
+        "name": "Getaway Sally",
+        "model": "tm_professional/tm_professional_varj"
+      },
+      {
+        "name": "Number K",
+        "model": "tm_professional/tm_professional_vari"
+      },
+      {
+        "name": "Sir Bloody Silent Darryl",
+        "model": "tm_professional/tm_professional_varf1"
+      },
+      {
+        "name": "Sir Bloody Skullhead Darryl",
+        "model": "tm_professional/tm_professional_varf2"
+      },
+      {
+        "name": "Sir Bloody Darryl Royale",
+        "model": "tm_professional/tm_professional_varf3"
+      },
+      {
+        "name": "Sir Bloody Loudmouth Darryl",
+        "model": "tm_professional/tm_professional_varf4"
+      }
+    ],
+    "Guerrilla Warfare": [
+      {
+        "name": "Elite Trapper Solman",
+        "model": "tm_jungle_raider/tm_jungle_raider_varianta"
+      },
+      {
+        "name": "Crasswater The Forgotten",
+        "model": "tm_jungle_raider/tm_jungle_raider_variantb"
+      },
+      {
+        "name": "Arno The Overgrown",
+        "model": "tm_jungle_raider/tm_jungle_raider_variantc"
+      },
+      {
+        "name": "Col. Mangos Dabisi",
+        "model": "tm_jungle_raider/tm_jungle_raider_variantd"
+      },
+      {
+        "name": "Vypa Sista of the Revolution",
+        "model": "tm_jungle_raider/tm_jungle_raider_variante"
+      },
+      {
+        "name": "Trapper Aggressor",
+        "model": "tm_jungle_raider/tm_jungle_raider_variantf"
+      },
+      {
+        "name": "'Medium Rare' Crasswater",
+        "model": "tm_jungle_raider/tm_jungle_raider_variantb2"
+      },
+      {
+        "name": "Trapper",
+        "model": "tm_jungle_raider/tm_jungle_raider_variantf2"
+      }
+    ],
+    "Elite Crew": [
+      {
+        "name": "Ground Rebel ",
+        "model": "tm_leet/tm_leet_variantg"
+      },
+      {
+        "name": "Osiris",
+        "model": "tm_leet/tm_leet_varianth"
+      },
+      {
+        "name": "Prof. Shahmat",
+        "model": "tm_leet/tm_leet_varianti"
+      },
+      {
+        "name": "The Elite Mr. Muhlik",
+        "model": "tm_leet/tm_leet_variantf"
+      },
+      {
+        "name": "Jungle Rebel",
+        "model": "tm_leet/tm_leet_variantj"
+      }
+    ],
+    "Phoenix Connexion": [
+      {
+        "name": "Soldier",
+        "model": "tm_phoenix/tm_phoenix_varianth"
+      },
+      {
+        "name": "Enforcer",
+        "model": "tm_phoenix/tm_phoenix_variantf"
+      },
+      {
+        "name": "Slingshot",
+        "model": "tm_phoenix/tm_phoenix_variantg"
+      },
+      {
+        "name": "Street Soldier",
+        "model": "tm_phoenix/tm_phoenix_varianti"
+      }
+    ]
+  }
+}

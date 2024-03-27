@@ -1,0 +1,385 @@
+{
+  "기본 장갑": [
+    {
+      "name": "Default",
+      "weapon": 0,
+      "paint": "0"
+    }
+  ],
+  "브로큰 팽 장갑": [
+    {
+      "name": "Jade",
+      "weapon": 4725,
+      "paint": "10085"
+    },
+    {
+      "name": "Yellow-banded",
+      "weapon": 4725,
+      "paint": "10086"
+    },
+    {
+      "name": "Needle Point",
+      "weapon": 4725,
+      "paint": "10087"
+    },
+    {
+      "name": "Unhinged",
+      "weapon": 4725,
+      "paint": "10088"
+    }
+  ],
+  "블러드하운드 장갑": [
+    {
+      "name": "Charred",
+      "weapon": 5027,
+      "paint": "10006"
+    },
+    {
+      "name": "Snakebite",
+      "weapon": 5027,
+      "paint": "10007"
+    },
+    {
+      "name": "Bronzed",
+      "weapon": 5027,
+      "paint": "10008"
+    },
+    {
+      "name": "Guerrilla",
+      "weapon": 5027,
+      "paint": "10039"
+    }
+  ],
+  "스포츠 장갑": [
+    {
+      "name": "Superconductor",
+      "weapon": 5030,
+      "paint": "10018"
+    },
+    {
+      "name": "Arid",
+      "weapon": 5030,
+      "paint": "10019"
+    },
+    {
+      "name": "Pandora's Box",
+      "weapon": 5030,
+      "paint": "10037"
+    },
+    {
+      "name": "Hedge Maze",
+      "weapon": 5030,
+      "paint": "10038"
+    },
+    {
+      "name": "Amphibious",
+      "weapon": 5030,
+      "paint": "10045"
+    },
+    {
+      "name": "Bronze Morph",
+      "weapon": 5030,
+      "paint": "10046"
+    },
+    {
+      "name": "Omega",
+      "weapon": 5030,
+      "paint": "10047"
+    },
+    {
+      "name": "Vice",
+      "weapon": 5030,
+      "paint": "10048"
+    },
+    {
+      "name": "Slingshot",
+      "weapon": 5030,
+      "paint": "10073"
+    },
+    {
+      "name": "Big Game",
+      "weapon": 5030,
+      "paint": "10074"
+    },
+    {
+      "name": "Scarlet Shamagh",
+      "weapon": 5030,
+      "paint": "10075"
+    },
+    {
+      "name": "Nocts",
+      "weapon": 5030,
+      "paint": "10076"
+    }
+  ],
+  "드라이버 장갑": [
+    {
+      "name": "Lunar Weave",
+      "weapon": 5031,
+      "paint": "10013"
+    },
+    {
+      "name": "Convoy",
+      "weapon": 5031,
+      "paint": "10015"
+    },
+    {
+      "name": "Crimson Weave",
+      "weapon": 5031,
+      "paint": "10016"
+    },
+    {
+      "name": "Diamondback",
+      "weapon": 5031,
+      "paint": "10040"
+    },
+    {
+      "name": "King Snake",
+      "weapon": 5031,
+      "paint": "10041"
+    },
+    {
+      "name": "Imperial Plaid",
+      "weapon": 5031,
+      "paint": "10042"
+    },
+    {
+      "name": "Overtake",
+      "weapon": 5031,
+      "paint": "10043"
+    },
+    {
+      "name": "Racing Green",
+      "weapon": 5031,
+      "paint": "10044"
+    },
+    {
+      "name": "Rezan the Red",
+      "weapon": 5031,
+      "paint": "10069"
+    },
+    {
+      "name": "Snow Leopard",
+      "weapon": 5031,
+      "paint": "10070"
+    },
+    {
+      "name": "Queen Jaguar",
+      "weapon": 5031,
+      "paint": "10071"
+    },
+    {
+      "name": "Black Tie",
+      "weapon": 5031,
+      "paint": "10072"
+    }
+  ],
+  "핸드랩": [
+    {
+      "name": "Leather",
+      "weapon": 5032,
+      "paint": "10009"
+    },
+    {
+      "name": "Spruce DDPAT",
+      "weapon": 5032,
+      "paint": "10010"
+    },
+    {
+      "name": "Slaughter",
+      "weapon": 5032,
+      "paint": "10021"
+    },
+    {
+      "name": "Badlands",
+      "weapon": 5032,
+      "paint": "10036"
+    },
+    {
+      "name": "Cobalt Skulls",
+      "weapon": 5032,
+      "paint": "10053"
+    },
+    {
+      "name": "Overprint",
+      "weapon": 5032,
+      "paint": "10054"
+    },
+    {
+      "name": "Duct Tape",
+      "weapon": 5032,
+      "paint": "10055"
+    },
+    {
+      "name": "Arboreal",
+      "weapon": 5032,
+      "paint": "10056"
+    },
+    {
+      "name": "Desert Shamagh",
+      "weapon": 5032,
+      "paint": "10081"
+    },
+    {
+      "name": "Giraffe",
+      "weapon": 5032,
+      "paint": "10082"
+    },
+    {
+      "name": "Constrictor",
+      "weapon": 5032,
+      "paint": "10083"
+    },
+    {
+      "name": "CAUTION!",
+      "weapon": 5032,
+      "paint": "10084"
+    }
+  ],
+  "모토 글러브": [
+    {
+      "name": "Eclipse",
+      "weapon": 5033,
+      "paint": "10024"
+    },
+    {
+      "name": "Spearmint",
+      "weapon": 5033,
+      "paint": "10026"
+    },
+    {
+      "name": "Boom!",
+      "weapon": 5033,
+      "paint": "10027"
+    },
+    {
+      "name": "Cool Mint",
+      "weapon": 5033,
+      "paint": "10028"
+    },
+    {
+      "name": "POW!",
+      "weapon": 5033,
+      "paint": "10049"
+    },
+    {
+      "name": "Turtle",
+      "weapon": 5033,
+      "paint": "10050"
+    },
+    {
+      "name": "Transport",
+      "weapon": 5033,
+      "paint": "10051"
+    },
+    {
+      "name": "Polygon",
+      "weapon": 5033,
+      "paint": "10052"
+    },
+    {
+      "name": "Finish Line",
+      "weapon": 5033,
+      "paint": "10077"
+    },
+    {
+      "name": "Smoke Out",
+      "weapon": 5033,
+      "paint": "10078"
+    },
+    {
+      "name": "Blood Pressure",
+      "weapon": 5033,
+      "paint": "10079"
+    },
+    {
+      "name": "3rd Commando Company",
+      "weapon": 5033,
+      "paint": "10080"
+    }
+  ],
+  "스페셜리스트 장갑": [
+    {
+      "name": "Forest DDPAT",
+      "weapon": 5034,
+      "paint": "10030"
+    },
+    {
+      "name": "Crimson Kimono",
+      "weapon": 5034,
+      "paint": "10033"
+    },
+    {
+      "name": "Emerald Web",
+      "weapon": 5034,
+      "paint": "10034"
+    },
+    {
+      "name": "Foundation",
+      "weapon": 5034,
+      "paint": "10035"
+    },
+    {
+      "name": "Crimson Web",
+      "weapon": 5034,
+      "paint": "10061"
+    },
+    {
+      "name": "Buckshot",
+      "weapon": 5034,
+      "paint": "10062"
+    },
+    {
+      "name": "Fade",
+      "weapon": 5034,
+      "paint": "10063"
+    },
+    {
+      "name": "Mogul",
+      "weapon": 5034,
+      "paint": "10064"
+    },
+    {
+      "name": "Marble Fade",
+      "weapon": 5034,
+      "paint": "10065"
+    },
+    {
+      "name": "Lt. Commander",
+      "weapon": 5034,
+      "paint": "10066"
+    },
+    {
+      "name": "Tiger Strike",
+      "weapon": 5034,
+      "paint": "10067"
+    },
+    {
+      "name": "Field Agent",
+      "weapon": 5034,
+      "paint": "10068"
+    }
+  ],
+  "히드라 장갑": [
+    {
+      "name": "Emerald",
+      "weapon": 5035,
+      "paint": "10057"
+    },
+    {
+      "name": "Mangrove",
+      "weapon": 5035,
+      "paint": "10058"
+    },
+    {
+      "name": "Rattler",
+      "weapon": 5035,
+      "paint": "10059"
+    },
+    {
+      "name": "Case Hardened",
+      "weapon": 5035,
+      "paint": "10060"
+    }
+  ]
+}

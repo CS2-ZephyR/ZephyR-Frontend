@@ -1,12 +1,12 @@
-import { createStore } from "redux";
-import { combineReducers } from "redux";
+import { configureStore } from '@reduxjs/toolkit';
 
-import skin from "./modules/skin.js";
+import { skinSlice, userSlice } from './slices';
 
-const rootReducer = combineReducers({
-  skin: skin,
+const store = configureStore({
+  reducer: {
+    user: userSlice,
+    skin: skinSlice,
+  },
 });
-
-const store = createStore(rootReducer);
 
 export default store;

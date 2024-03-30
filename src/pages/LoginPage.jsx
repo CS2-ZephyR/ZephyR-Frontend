@@ -27,7 +27,7 @@ export default function LoginPage() {
     } else {
       const steamId = params.get('openid.identity').substring(37);
 
-      Cookies.setCookie('steamId', btoa(steamId));
+      Cookies.setCookie('steamId', btoa(steamId), {maxAge: 31536000});
 
       window.location.href = '/';
     }

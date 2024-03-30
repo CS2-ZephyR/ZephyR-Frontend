@@ -3,8 +3,8 @@ import { Cookies } from 'react-cookie';
 const cookies = new Cookies();
 
 export default {
-  setCookie: (name, value) => {
-    return cookies.set(name, value);
+  setCookie: (name, value, options) => {
+    return cookies.set(name, value, options);
   },
 
   hasCookie: (name) => {

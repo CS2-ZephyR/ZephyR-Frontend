@@ -30,7 +30,6 @@ export default function SkinCard({ weapon, paint, seed, wear, name }) {
     dispatch(updateSkinPaint({ weapon, paint }));
     dispatch(updateSkinSeed({ weapon, seed: 0 }));
     dispatch(updateSkinWear({ weapon, wear: 0 }));
-    dispatch(updateSkinName({ weapon, name: '' }));
 
     (async () => {
       await axios.put('/api/skin/detail', {
@@ -38,7 +37,7 @@ export default function SkinCard({ weapon, paint, seed, wear, name }) {
         paint,
         seed: 0,
         wear: 0,
-        name: '',
+        name: name,
       });
     })();
   };

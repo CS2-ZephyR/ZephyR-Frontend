@@ -26,21 +26,15 @@ export default function GloveCard({ glove, paint, seed, wear }) {
   const onPaintChange = (e) => {
     const [_glove, paint] = e.target.value.split('_').map((x) => Number(x));
 
-    if (glove !== _glove) {
-      dispatch(updateGlove({ glove: _glove }));
-
-      (async () => {
-        await axios.put('/api/skin/glove', { glove: _glove });
-      })();
-    }
-
+    dispatch(updateGlove({ glove: _glove }));
     dispatch(updateSkinPaint({ weapon: _glove, paint: paint }));
     dispatch(updateSkinSeed({ weapon: _glove, seed: 0 }));
     dispatch(updateSkinWear({ weapon: _glove, wear: 0 }));
 
     (async () => {
+      await axios.put('/api/skin/glove', { glove: _glove });
       await axios.put('/api/skin/detail', {
-        weapon: glove,
+        weapon: _glove,
         paint: paint,
         seed: 0,
         wear: 0,

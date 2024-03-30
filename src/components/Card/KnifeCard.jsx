@@ -29,12 +29,12 @@ export default function KnifeCard({ knife, paint, seed, wear, name }) {
 
   const onKnifeChange = (e) => {
     const knife = e.target.value;
+    const knifeRaw = Weapon.getKnifeIndexFromKnifeRaw(knife);
 
     dispatch(updateKnife({ knife }));
     dispatch(updateSkinPaint({ weapon: knifeRaw, paint: 0 }));
     dispatch(updateSkinSeed({ weapon: knifeRaw, seed: 0 }));
     dispatch(updateSkinWear({ weapon: knifeRaw, wear: 0 }));
-    dispatch(updateSkinName({ weapon: knifeRaw, name: '' }));
 
     (async () => {
       await axios.put('/api/skin/knife', { knife });
@@ -43,7 +43,7 @@ export default function KnifeCard({ knife, paint, seed, wear, name }) {
         paint: 0,
         seed: 0,
         wear: 0,
-        name: '',
+        name: name,
       });
     })();
   };
@@ -54,7 +54,6 @@ export default function KnifeCard({ knife, paint, seed, wear, name }) {
     dispatch(updateSkinPaint({ weapon: knifeRaw, paint }));
     dispatch(updateSkinSeed({ weapon: knifeRaw, seed: 0 }));
     dispatch(updateSkinWear({ weapon: knifeRaw, wear: 0 }));
-    dispatch(updateSkinName({ weapon: knifeRaw, name: '' }));
 
     (async () => {
       await axios.put('/api/skin/detail', {
@@ -62,7 +61,7 @@ export default function KnifeCard({ knife, paint, seed, wear, name }) {
         paint,
         seed: 0,
         wear: 0,
-        name: '',
+        name: name,
       });
     })();
   };

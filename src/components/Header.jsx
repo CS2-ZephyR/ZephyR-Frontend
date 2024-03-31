@@ -40,7 +40,7 @@ export default function Header() {
       } catch (e) {
         if (e instanceof AxiosError && e.response?.status === 401) {
           dispatch(setLoading({ loading: false }));
-          dispatch(setError({ error: '허가된 유저가 아닙니다.' }));
+          dispatch(setError({ error: '디스코드에서 연동을 해주세요.' }));
         } else {
           console.error(e);
         }

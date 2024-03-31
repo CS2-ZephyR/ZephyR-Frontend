@@ -23,8 +23,6 @@ export default function UserGuard(element) {
     return (
       <div className="flex items-center justify-center mt-64">
         <div className="text-center">
-          <h1 className="text-2xl">유저 정보가 존재하지 않습니다.</h1>
-
           <button
             onClick={goLogin}
             className="mt-4 bg-blue-500 text-white px-4 py-2 rounded"

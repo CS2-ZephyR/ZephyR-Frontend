@@ -23,9 +23,11 @@ export default function UserGuard(element) {
     return (
       <div className="flex items-center justify-center mt-64">
         <div className="text-center">
+          <h1 className="text-2xl font-bold">로그인을 해주세요.</h1>
+
           <button
             onClick={goLogin}
-            className="mt-4 bg-blue-500 text-white px-4 py-2 rounded"
+            className="mt-6 bg-blue-500 text-white px-4 py-2 rounded"
           >
             로그인
           </button>

@@ -1,6 +1,6 @@
 import { useSelector } from 'react-redux';
 
-import { AgentCard, GloveCard, KnifeCard, MusicKitCard, SkinCard } from '../components/index.js';
+import { AgentCard, GloveCard, KnifeCard, MusicKitCard, SkinCard, SmokeColorCard } from '../components/index.js';
 
 import Weapon from '../utils/Weapon.js';
 
@@ -108,6 +108,18 @@ const MusicKitComponent = (skin) => {
   );
 };
 
+const SmokeColorComponent = (skin) => {
+  return (
+    <div className="mb-20">
+      <p className="text-2xl font-bold mb-2.5">연막탄 색상</p>
+
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
+        <SmokeColorCard r={skin.smoke.R} g={skin.smoke.G} b={skin.smoke.B}/>
+      </div>
+    </div>
+  );
+};
+
 export default function SkinPage() {
   const skin = useSelector((state) => state.skin);
 
@@ -122,6 +134,7 @@ export default function SkinPage() {
         {KnifeComponent(skin)}
         {AgentComponent(skin)}
         {MusicKitComponent(skin)}
+        {SmokeColorComponent(skin)}
       </div>
     </div>
   );

@@ -9,6 +9,9 @@ const initialState = {
   },
   music: 0,
   detail: [],
+  smoke: {
+    R: 255, G: 255, B: 255
+  }
 };
 
 const skinSlice = createSlice({
@@ -16,13 +19,14 @@ const skinSlice = createSlice({
   initialState,
   reducers: {
     setSkinData: (state, action) => {
-      const { knife, glove, agent, music, detail } = action.payload;
+      const { knife, glove, agent, music, detail, smoke } = action.payload;
 
       state.knife = knife;
       state.glove = glove;
       state.agent = agent;
       state.music = music;
       state.detail = detail;
+      state.smoke = smoke;
     },
 
     updateSkinPaint: (state, action) => {
@@ -108,6 +112,14 @@ const skinSlice = createSlice({
 
       state.knife = knife;
     },
+
+    updateSmoke: (state, action) => {
+      const { r, g, b } = action.payload;
+
+      state.smoke.R = r;
+      state.smoke.G = g;
+      state.smoke.B = b;
+    },
   },
 });
 
@@ -121,6 +133,7 @@ export const {
   updateMusic,
   updateGlove,
   updateKnife,
+  updateSmoke
 } = skinSlice.actions;
 
 export default skinSlice.reducer;
